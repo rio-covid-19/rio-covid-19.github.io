@@ -30,9 +30,9 @@ content_type: Informacional #Define whether this is a knowledge base, help cente
 use_authors: false #Set this to false to disable showing post authors
 
 brand_logo: logo.png
-brand_name: NRVM
+brand_moto: Juntos contra o COVID-19.
 header: Núcleo de Reparo de Ventiladores Mecânicos
-subheader: Conheça mais sobre o programa e contribua você também!
+subheader: Conheça mais sobre a iniciativa e contribua você também!
 
 meta_image: odin-meta.png
 
