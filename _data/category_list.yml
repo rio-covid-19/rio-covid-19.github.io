@@ -1,15 +1,15 @@
 #This file defines all the categories you are using
 
 
-project-1:
+mapa-consertos:
   name: Mapeamento de consertos
   description: Aplicativo "SOSTecSaúde"
-project-2:
+vigia-saude:
   name: Monitoramento da saúde
   description: Projeto "Linha de Frente"
-project-3:
+vigia-equip:
   name: Monitoramento dos equipamentos
   description: Projeto "..."
-project-4:
+expande-mente:
   name: Expansão do conhecimento
   description: Projeto "Engineers Assisting Ventilator Maintenance"
