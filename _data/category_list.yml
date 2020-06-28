@@ -1,12 +1,15 @@
 #This file defines all the categories you are using
 
 
-using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+mapa-consertos:
+  name: Mapeamento de consertos
+  description: Aplicativo "SOSTecSaúde"
+vigia-saude:
+  name: Monitoramento da saúde
+  description: Projeto "Linha de Frente"
+vigia-equip:
+  name: Monitoramento dos equipamentos
+  description: Projeto "..."
+expande-mente:
+  name: Expansão do conhecimento
+  description: Projeto "Engineers Assisting Ventilator Maintenance"
