@@ -3,8 +3,8 @@ layout: post
 title: "SOSTecSaude"
 date: 2019-11-05 08:44:38 -0400
 category: mapa-consertos
-author: name
-short-description: test
+author:
+short-description:
 ---
 
 -----
