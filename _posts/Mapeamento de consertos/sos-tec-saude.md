@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: article
 title: "SOSTecSaude"
 date: 
 category: mapa-consertos
 author: 
-short-description: 
+short-description: not-required
 ---
 
 -----
