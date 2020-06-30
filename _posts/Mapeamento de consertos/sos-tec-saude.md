@@ -3,8 +3,8 @@ layout: article
 title: "SOSTecSaude"
 date: 2020-01-01 00:00:00 -0000
 category: mapa-consertos
-author: 
-short-description: not-required
+author:
+short-description:
 ---
 
 -----
