@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+{% assign page_category = site.data.category_list[page.category] %}
+
+
+<div class="container-full">
+    <div class="container grid-xl">
+      <div class="mt-12 show-md"></div>
+      <div class="mt-8"></div>
+      <div class="columns negative-m-xl">
+        <div class="column col-12">
+          <ul class="breadcrumb">
+            <li class="breadcrumb-item">
+              <a href="{{ site.url }}{{ site.baseurl }}">Home</a>
+            </li>
+            <li class="breadcrumb-item">
+              <a href="../{{ page.category }}">{{ page_category.name }}</a>
+            </li>
+            <li class="breadcrumb-item">
+              <a href="#">{{ page.title }}</a>
+            </li>
+          </ul>
+          <h2 class="text-light text-bold">{{ page.title }}</h2>
+        </div>
+        <div class="column col-12">
+          <div class="card">
+            <div class="card-body">
+              <div class="ml-2">
+                <p class="text-dark text-small text-italic mb-0">{% include reading-time.html %}</p>
+              </div>
+                
+              {{ content }}
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
