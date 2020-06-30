@@ -14,7 +14,7 @@ title: Home
           {% for category in site.data.category_list %}
           {% capture category_name %}{{ category | first }}{% endcapture %}
           {% assign page_category = site.data.category_list[category_name] %}
-          <div class="column col-4 col-md-6 col-sm-12">
+          <div class="column col-6 col-md-6 col-sm-12">
             <a href="{{ site.baseurl }}/{{ category_name | slugify }}">
               <div class="card card-link">
                 <div class="card-body text-center my-4">
