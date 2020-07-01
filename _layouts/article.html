@@ -1,3 +1,6 @@
+{% assign page_category = site.data.category_list[page.category] %}
+
+
 <div class="container-full">
     <div class="container grid-xl">
       <div class="mt-12 show-md"></div>
@@ -10,7 +13,8 @@
                 <p class="text-dark text-small text-italic mb-0">{% include reading-time.html %}</p>
               </div>
                 
-              {{ content }}
+                <!-- Should be a different outcome -->
+                <!-- {{ content }} -->
 
             </div>
           </div>
