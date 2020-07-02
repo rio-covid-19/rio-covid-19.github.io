@@ -45,10 +45,6 @@ layout: default
             </a>
           </div>
           {% endif %}
-        {% endfor %} 
-      {% else %}
-        {% for post in site.categories.[page.category] %}
-          {% include article-sheet.html %}
         {% endfor %}
       {% endif %}
 
