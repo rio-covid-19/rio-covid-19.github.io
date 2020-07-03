@@ -7,8 +7,6 @@ layout: default
 
 {% assign page_subcategory = site.data.subcategory_list[page.subcategory] %}
 
-{% assign posts = site.category_list[page.category] %}
-
 <div class="container-full">
   <div class="container grid-xl">
     <div class="mt-12 show-md"></div>
@@ -51,9 +49,11 @@ layout: default
       {% endif %}
 
       <div>
-      {% for post in posts %}
-        <div>{{ post.title }}</div>
-      {% endfor %}
+        <ul>
+          {% for post in posts %}
+            <li>--- {{ post.title }} ---</li>
+          {% endfor %}
+        </ul>
       </div>
 
     </div>
