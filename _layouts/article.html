@@ -48,13 +48,19 @@ layout: default
         {% endfor %}
       {% endif %}
 
-      <div>
-        <ul>
-          {% for post in posts %}
-            <li>--- {{ post.title }} ---</li>
-          {% endfor %}
-        </ul>
+      {% for post in site.categories[page.category] %}
+      <div class="column col-12">
+          <div class="card">
+            <div class="card-body">
+              
+              <h3>{{ post.title }}</h3>
+              
+              {{ post.content }}
+
+            </div>
+          </div>
       </div>
+      {% endfor %}
 
     </div>
   </div>
