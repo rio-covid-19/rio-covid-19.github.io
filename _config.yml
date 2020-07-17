@@ -58,46 +58,54 @@ nav_item_three_link: #
 nav_button: Contribua
 nav_button_link: # https://teaguns.github.io/odin/
 
+
 # Organized by
 organizer1_button: ![CEFET/RJ](/assets/cefet_vert.png)
 organizer1_link: http://www.cefet-rj.br/index.php
+
 organizer2_button: ![Secretaria Municipal de Saúde do RJ](/assets/SaudeRJ.png)
 organizer2_link: http://www.rio.rj.gov.br/web/sms
+
 organizer3_button: ![IEEE Seção Rio de Janeiro](/assets/seção rio logo.png)
 organizer3_link: http://www.ieee.org.br/rio-de-janeiro/a-secao/
+
+
 # Financed by
 financier1_button: ![IEEE HAC & SIGHT](/assets/IEE-15-CA-391_HAC_TypeTreatment_CMYK.png)
 financier1_link: https://hac.ieee.org/
-# Partner
+
+
+# Partners
 partner1_button: ![YP Seção Rio de Janeiro](/assets/IEEEYPRioLogo_4C_Stacked (1).png)
 partner1_link: https://www.facebook.com/ieee.yp.rio/?tn-str=k*F
+
 partner2_button: ![Furnas](/assets/Furnas.png)
 partner2_link: https://www.furnas.com.br/
+
 partner3_button: ![White Martins](/assets/white_martins.png)
 partner3_link: http://www.praxair.com.br/
+
 partner4_button: ![ACRJ](/assets/ACRJ.jpg)
 partner4_link: https://acrj.org.br/ 
+
 partner5_button: ![Clube de Engenharia](/assets/Logo Clube_square-transp (1).png)
 partner5_link: http://portalclubedeengenharia.org.br/
+
 partner6_button: ![Sebrae/RJ](/assets/)
 partner6_link: https://www.sebrae.com.br/sites/PortalSebrae/ufs/rj?codUf=20 
+
 partner7_button: ![Gsol](/assets/Gsol.png)
 partner7_link: https://www.gsol.com.br/
+
 partner8_button: ![Ezrest]()
 partner8_link:
+
 partner9_button: ![Lancier]()
 partner9_link:
+
 partner10_button: ![Nova Service]()
 partner10_link:
-# help_one_title: 
-# help_one_content: 
-# help_one_button: ![White Martins](http://www.praxair.com.br/-/media/corporate/praxair-brazil/images/praxair-wm-logo-1.png)
-# help_one_link: http://www.praxair.com.br/
 
-# help_two_title: Twitter
-# help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
-# help_two_button: Twitter
-# help_two_link: https://twitter.com/theteaguns
 
 # Build settings
 theme: minima
