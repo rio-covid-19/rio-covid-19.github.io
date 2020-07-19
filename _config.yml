@@ -22,7 +22,6 @@
 # Site's Identification
 title: Núcleo de Reparo de Ventiladores Mecânicos
 description: Programa voluntário de combate à COVID-19 no estado do Rio de Janeiro.
-baseurl: / # the subpath of your site, e.g. /support
 url: https://rio-covid-19.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
