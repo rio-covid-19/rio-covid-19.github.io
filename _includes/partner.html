@@ -1,19 +1,87 @@
-{% if site.help_one_title == null %}
+{% if site.organization == null %}
 {% else %}
-<div class="column col-12 text-center mt-16">
-  <h4>Still Need Help?</h4>
+<div class="column col-12 text-center text-uppercase mt-16">
+  <h6>{{ site.organization }}</h6>
 </div>
 <div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  <h5>{{ site.help_one_title }}</h5>
-  <p>{{ site.help_one_content }}</p>
-  <a href="{{ site.help_one_link }}">{{ site.help_one_button }} <i class='uil uil-arrow-right arrow-hover'></i></a>
+  {% for stakeholder in site.data.stakeholders %}
+    {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
+    {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
+    {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
+    {% if stakeholder_id == "o" %}
+      <figure style="align-items: center;">
+        <a href="{{ each_stakeholder.link }}">
+        <img class="img-responsive img-fit-contain" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+    </a>
+	<!-- style="-webkit-filter: grayscale(100%)" CHANGE WITH HOVER-->
+      </figure>
+    {% endif %}
+  {% endfor %}
 </div>
 {% endif %}
-{% if site.help_two_title == null %}
+
+{% if site.funding == null %}
 {% else %}
+<div class="column col-12 text-center text-uppercase mt-16">
+  <h6>{{ site.funding }}</h6>
+</div>
 <div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  <h5>{{ site.help_two_title }}</h5>
-  <p>{{ site.help_two_content }}</p>
-  <a href="{{ site.help_two_link }}" target="_blank">{{ site.help_two_button}} <i class='uil uil-arrow-right arrow-hover'></i></a>
+  {% for stakeholder in site.data.stakeholders %}
+    {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
+    {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
+    {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
+    {% if stakeholder_id == "f" %}
+      <figure style="align-items: center;">
+        <a href="{{ each_stakeholder.link }}">
+        <img class="img-responsive img-fit-contain" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+    </a>
+	<!-- style="-webkit-filter: grayscale(100%)" CHANGE WITH HOVER-->
+      </figure>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if site.partnership == null %}
+{% else %}
+<div class="column col-12 text-center text-uppercase mt-16">
+  <h6>{{ site.partnership }}</h6>
+</div>
+<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
+  {% for stakeholder in site.data.stakeholders %}
+    {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
+    {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
+    {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
+    {% if stakeholder_id == "p" %}
+      <figure style="align-items: center;">
+        <a href="{{ each_stakeholder.link }}">
+        <img class="img-responsive img-fit-contain" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+    </a>
+	<!-- style="-webkit-filter: grayscale(100%)" CHANGE WITH HOVER-->
+      </figure>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if site.support == null %}
+{% else %}
+<div class="column col-12 text-center text-uppercase mt-16">
+  <h6>{{ site.support }}</h6>
+</div>
+<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
+  {% for stakeholder in site.data.stakeholders %}
+    {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
+    {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
+    {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
+    {% if stakeholder_id == "s" %}
+      <figure style="align-items: center;">
+        <a href="{{ each_stakeholder.link }}">
+        <img class="img-responsive img-fit-contain" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+    </a>
+	<!-- style="-webkit-filter: grayscale(100%)" CHANGE WITH HOVER-->
+      </figure>
+    {% endif %}
+  {% endfor %}
 </div>
 {% endif %}
