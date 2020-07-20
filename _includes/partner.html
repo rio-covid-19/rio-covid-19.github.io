@@ -1,87 +1,75 @@
-{% if site.organization == null %}
-{% else %}
-<div class="column col-12 text-center text-uppercase mt-16">
-  <h6>{{ site.organization }}</h6>
-</div>
-<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  {% for stakeholder in site.data.stakeholders %}
-    {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
-    {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
-    {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
-    {% if stakeholder_id == "o" %}
-      <figure style="align-items: center;">
-        <a href="{{ each_stakeholder.link }}">
-        <img class="img-responsive img-fit-contain" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
-    </a>
-	<!-- style="-webkit-filter: grayscale(100%)" CHANGE WITH HOVER-->
-      </figure>
-    {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
+<div class="columns">
 
-{% if site.funding == null %}
-{% else %}
-<div class="column col-12 text-center text-uppercase mt-16">
-  <h6>{{ site.funding }}</h6>
-</div>
-<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  {% for stakeholder in site.data.stakeholders %}
-    {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
-    {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
-    {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
-    {% if stakeholder_id == "f" %}
-      <figure style="align-items: center;">
-        <a href="{{ each_stakeholder.link }}">
-        <img class="img-responsive img-fit-contain" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+  {% if site.organization == null %}
+  {% else %}
+    <div class="column col-12 text-center text-uppercase mt-16">
+      <h6>{{ site.organization }}</h6>
+    </div>
+    {% for stakeholder in site.data.stakeholders %}
+      {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
+      {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
+      {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
+      {% if stakeholder_id == "o" %}
+      <div class="column col-3 col-sm-6 p-8 col-mx-auto">
+    <a href="{{ each_stakeholder.link }}"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
     </a>
-	<!-- style="-webkit-filter: grayscale(100%)" CHANGE WITH HOVER-->
-      </figure>
-    {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
+      </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 
-{% if site.partnership == null %}
-{% else %}
-<div class="column col-12 text-center text-uppercase mt-16">
-  <h6>{{ site.partnership }}</h6>
-</div>
-<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  {% for stakeholder in site.data.stakeholders %}
-    {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
-    {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
-    {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
-    {% if stakeholder_id == "p" %}
-      <figure style="align-items: center;">
-        <a href="{{ each_stakeholder.link }}">
-        <img class="img-responsive img-fit-contain" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+  {% if site.funding == null %}
+  {% else %}
+    <div class="column col-12 text-center text-uppercase mt-16">
+      <h6>{{ site.funding }}</h6>
+    </div>
+    {% for stakeholder in site.data.stakeholders %}
+      {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
+      {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
+      {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
+      {% if stakeholder_id == "f" %}
+      <div class="column col-3 col-sm-6 p-8 col-mx-auto">
+        <a href="{{ each_stakeholder.link }}"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
     </a>
-	<!-- style="-webkit-filter: grayscale(100%)" CHANGE WITH HOVER-->
-      </figure>
-    {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
+      </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 
-{% if site.support == null %}
-{% else %}
-<div class="column col-12 text-center text-uppercase mt-16">
-  <h6>{{ site.support }}</h6>
-</div>
-<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  {% for stakeholder in site.data.stakeholders %}
-    {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
-    {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
-    {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
-    {% if stakeholder_id == "s" %}
-      <figure style="align-items: center;">
-        <a href="{{ each_stakeholder.link }}">
-        <img class="img-responsive img-fit-contain" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+  {% if site.partnership == null %}
+  {% else %}
+    <div class="column col-12 text-center text-uppercase mt-16">
+      <h6>{{ site.partnership }}</h6>
+    </div>
+    {% for stakeholder in site.data.stakeholders %}
+      {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
+      {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
+      {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
+      {% if stakeholder_id == "p" %}
+      <div class="column col-2 col-sm-6 p-8 col-mx-auto">
+    <a href="{{ each_stakeholder.link }}"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
     </a>
-	<!-- style="-webkit-filter: grayscale(100%)" CHANGE WITH HOVER-->
-      </figure>
-    {% endif %}
-  {% endfor %}
+      </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if site.support == null %}
+  {% else %}
+    <div class="column col-12 text-center text-uppercase mt-16">
+      <h6>{{ site.support }}</h6>
+    </div>
+    {% for stakeholder in site.data.stakeholders %}
+      {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
+      {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
+      {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
+      {% if stakeholder_id == "s" %}
+      <div class="column col-2 col-sm-6 p-8 col-mx-auto">
+    <a href="{{ each_stakeholder.link }}"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+    </a>
+      </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
 </div>
-{% endif %}

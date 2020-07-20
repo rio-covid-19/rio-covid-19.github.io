@@ -4,6 +4,8 @@
   display: block;
   height: auto;
   max-width: 100%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 // object-fit support is coming to Microsoft Edge
