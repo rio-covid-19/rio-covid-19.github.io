@@ -69,12 +69,13 @@ partner-9:
   name: Nova Service
   logo: 
   link: 
-support-1:
+
+partner-1:
   name: IEEE YP Rio
   logo: IEEEYPRioLogo_4C_Stacked (1).png
   link: https://www.facebook.com/ieee.yp.rio/?tn-str=k*F
 
-support-2:
-  name: 
-  logo: 
-  link: 
+# support-1:
+#   name: 
+#   logo: 
+#   link: 
