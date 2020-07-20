@@ -13,8 +13,8 @@
         </div>
         <div class="my-12"></br></div>
         <div class="columns">
-            <div class="column col-12 text-center text-uppercase">
-                <h6>{{ site.activity }}</h6>
+            <div class="column col-12 text-center mt-16">
+                <h4>{{ site.activity }}</h4>
             </div>
             {% for category in site.data.category_list %}
             {% capture category_name %}{{ category | first }}{% endcapture %}
