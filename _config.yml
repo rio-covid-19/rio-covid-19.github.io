@@ -64,8 +64,8 @@ nav_button_link: # https://teaguns.github.io/odin/
 organization: Organização
 funding: Financiamento
 partnership: Parceria
-support: Apoio
-
+support: 
+#support: Apoio 
 
 # Build settings
 theme: minima
