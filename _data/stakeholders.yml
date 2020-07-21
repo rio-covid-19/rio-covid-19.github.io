@@ -1,0 +1,81 @@
+#Add your stakeholders here
+
+org-1:
+  name: CEFET/RJ
+  logo: cefet_vert.png
+  link: http://www.cefet-rj.br/index.php
+
+org-2:
+  name: Furnas
+  logo: Furnas.png
+  link: https://www.furnas.com.br
+
+org-3:
+  name: IEEE seção Rio de Janeiro
+  logo: seção rio logo.png
+  link: http://www.ieee.org.br/rio-de-janeiro/a-secao
+
+fund-1:
+  name: IEEE HAC & SIGHT
+  logo: IEE-15-CA-391_HAC_TypeTreatment_CMYK.png
+  link: https://hac.ieee.org
+
+fund-2:
+  name: Financiamento Coletivo
+  logo: 
+  link: 
+
+partner-1:
+  name: Secretaria Municipal de Saúde do RJ
+  logo: SaudeRJ.png
+  link: http://www.rio.rj.gov.br/web/sms
+
+partner-2:
+  name: White Martins
+  logo: white_martins.png
+  link: http://www.praxair.com.br
+
+partner-3:
+  name: ACRJ
+  logo: ACRJ.jpg
+  link: https://acrj.org.br
+
+partner-4:
+  name: Clube de Engenharia
+  logo: Logo Clube_square-transp (1).png
+  link: http://portalclubedeengenharia.org.br
+
+partner-5:
+  name: Sebrae/RJ
+  logo: 
+  link: https://www.sebrae.com.br/sites/PortalSebrae/ufs/rj?codUf=20
+
+partner-6:
+  name: Gsol
+  logo: Gsol.png
+  link: https://www.gsol.com.br
+
+partner-7:
+  name: Ezrest
+  logo: 
+  link: 
+
+partner-8:
+  name: Lancier
+  logo: 
+  link: 
+
+partner-9:
+  name: Nova Service
+  logo: 
+  link: 
+
+partner-10:
+  name: IEEE YP Rio
+  logo: IEEEYPRioLogo_4C_Stacked (1).png
+  link: https://www.facebook.com/ieee.yp.rio/?tn-str=k*F
+
+# support-1:
+#   name: 
+#   logo: 
+#   link: 

@@ -15,10 +15,10 @@ $hover-shadow: 0px 4px 8px rgba(45, 66, 70, 0.1);
 // Core colors
 $primary-color: #009CA6 !default;
 $primary-color-dark: #007377!default;
-$secondary-color: #d1d1e9 !default;
-$secondary-color-dark: #b3b3cb !default;
+$secondary-color: #ffc72c !default;
+$secondary-color-dark: #c79700 !default;
 $white: #fffffe;
-$highlight-color: #3498db;
+$highlight-color: #BA0C2F;
 
 // Gray colors
 $dark-color: #2b2c34 !default;
@@ -33,9 +33,9 @@ $bg-color: lighten($gray-color, 35%) !default;
 $bg-color-dark: darken($bg-color, 3%) !default;
 
 // Control colors
-$success: #6CBC2B !default;
-$warning: #FFCC00 !default;
-$error: #fa5246 !default;
+$success: #78BE20 !default;
+$warning: #FFD100 !default;
+$error: $highlight-color !default;
 
 
 // Other colors

@@ -4,6 +4,8 @@
   display: block;
   height: auto;
   max-width: 100%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 // object-fit support is coming to Microsoft Edge
@@ -28,6 +30,16 @@
   margin-right: 10px;
 }
 
+.img-gray-out {
+  opacity: 1;
+  transition: .5s ease;
+  -webkit-filter: grayscale(1);
+   filter: grayscale(100%);
+}
+
+.img-gray-out:hover {
+    -webkit-filter: none;
+}
 
 // Video responsive
 .video-responsive {
