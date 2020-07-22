@@ -17,17 +17,17 @@ org-3:
 
 fund-1:
   name: IEEE HAC & SIGHT
-  logo: IEE-15-CA-391_HAC_TypeTreatment_CMYK.png
+  logo: ieee-hac-sight.png
   link: https://hac.ieee.org
 
-fund-2:
-  name: Financiamento Coletivo
-  logo: 
-  link: 
+#fund-2:
+#  name: Financiamento Coletivo
+#  logo: 
+#  link: 
 
 partner-1:
   name: Secretaria Municipal de Saúde do RJ
-  logo: SaudeRJ.png
+  logo: download-removebg-preview (1).png
   link: http://www.rio.rj.gov.br/web/sms
 
 partner-2:
@@ -37,7 +37,7 @@ partner-2:
 
 partner-3:
   name: ACRJ
-  logo: ACRJ.jpg
+  logo: ACRJ__1_-removebg-preview.png
   link: https://acrj.org.br
 
 partner-4:
@@ -47,33 +47,43 @@ partner-4:
 
 partner-5:
   name: Sebrae/RJ
-  logo: 
+  logo: Sebrae (2).png
   link: https://www.sebrae.com.br/sites/PortalSebrae/ufs/rj?codUf=20
 
 partner-6:
   name: Gsol
-  logo: Gsol.png
+  logo: Gsol__1_-removebg-preview.png
   link: https://www.gsol.com.br
 
 partner-7:
   name: Ezrest
-  logo: 
-  link: 
+  logo: Ezrezt.png
+  link: https://covid.ezrest.com.br/#home
 
 partner-8:
   name: Lancier
-  logo: 
-  link: 
+  logo: Lancier.png
+  link: https://www.lancier-monitoring.de/
 
 partner-9:
   name: Nova Service
-  logo: 
+  logo: NovaService-removebg-preview.png
   link: 
 
 partner-10:
   name: IEEE YP Rio
   logo: IEEEYPRioLogo_4C_Stacked (1).png
   link: https://www.facebook.com/ieee.yp.rio/?tn-str=k*F
+  
+partner-11:
+  name: RioMed Distribuidora
+  logo: logo_riomed.png
+  link: http://www.riomeddistribuidora.com.br/
+  
+partner-12:
+  name: SisTab
+  logo: Sistab-Logo-1024x1024.png
+  link: https://sistab.com.br/
 
 # support-1:
 #   name: 
