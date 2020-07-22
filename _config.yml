@@ -48,7 +48,7 @@ email: ieee.eavm@gmail.com
 
 # Navigation
 nav_item_one: Sobre
-nav_item_one_link: # https://github.com/TeaGuns/odin
+nav_item_one_link: /about
 
 nav_item_two: Resultados
 nav_item_two_link: # https://twitter.com/TheTeaGuns
