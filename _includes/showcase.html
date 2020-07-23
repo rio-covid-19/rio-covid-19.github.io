@@ -18,7 +18,7 @@
             </div>
             {% for category in site.data.category_list %}
             {% capture category_name %}{{ category | first }}{% endcapture %}
-            {% if category_name == "about" %}
+            {% if category_name == "about" or category_name == "voluntarios" or category_name == "resultados" or category_name == "contribua" %}
 	    {% else %}
                 {% assign page_category = site.data.category_list[category_name] %}
                 <div class="column col-6 col-md-6 col-sm-12">

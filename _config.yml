@@ -51,13 +51,13 @@ nav_item_one: Sobre
 nav_item_one_link: /about
 
 nav_item_two: Resultados
-nav_item_two_link: # https://twitter.com/TheTeaGuns
+nav_item_two_link: /resultados
 
 nav_item_three: Voluntários
-nav_item_three_link: #
+nav_item_three_link: /voluntarios
 
 nav_button: Contribua
-nav_button_link: # https://teaguns.github.io/odin/
+nav_button_link: /contribua
 
 
 # Stakeholders
