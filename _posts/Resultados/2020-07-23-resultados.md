@@ -8,3 +8,7 @@ title: Descrição dos resultados do projeto
 # Resultados
 
 # Indicadores
+
+
+
+<iframe src="https://covidcarioca.herokuapp.com/" height="500" width="100%" style="border:none;" title="streamlit test"></iframe>
