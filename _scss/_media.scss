@@ -16,6 +16,10 @@
   object-fit: contain;
 }
 
+.img-md {
+  width: 100px;
+}
+
 .img-sm {
   width: 64px;
 }
@@ -26,6 +30,12 @@
 
 .img-m-right {
   margin-right: 10px;
+}
+
+.img-corner-up-right {
+  margin-top: 100px;
+  -ms-transform: translateX(-100%);
+  transform: translateX(-100%);
 }
 
 .img-gray-out {
