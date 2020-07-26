@@ -34,30 +34,32 @@ header: Núcleo de Reparo de Ventiladores Mecânicos
 subheader: Conheça mais sobre a iniciativa e contribua você também!
 activity: Atividades
 abstract: Mussum Ipsum, cacilds vidis litro abertis. Leite de capivaris, leite de mula manquis sem cabeça. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Quem manda na minha terra sou euzis! Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.
+foot_descrip: O Núcleo de Reparo de Ventiladores Mecânicos é uma iniciativa que integra os diversos esforços da sociedade no combate ao COVID-19. Localizada no estado do Rio de Janeiro, é composta por uma rede de estudantes e profissionais de várias áreas da engenharia.
+
 
 meta_image: odin-meta.png
 
 # Social Links
-# twitter_username: 
-# facebook_page:
-# github_username: 
+twitter_username: #
+facebook_page: #
+github_username: rio-covid-19
 email: ieee.eavm@gmail.com
-# linkedin_page:
-# instagram_username: 
+linkedin_page: #
+instagram_username: ieee.rio.eavm
 
 
 # Navigation
 nav_item_one: Sobre
-nav_item_one_link: # https://github.com/TeaGuns/odin
+nav_item_one_link: /about
 
 nav_item_two: Resultados
-nav_item_two_link: # https://twitter.com/TheTeaGuns
+nav_item_two_link: /resultados
 
 nav_item_three: Voluntários
-nav_item_three_link: #
+nav_item_three_link: /voluntarios
 
 nav_button: Contribua
-nav_button_link: # https://teaguns.github.io/odin/
+nav_button_link: /contribua
 
 
 # Stakeholders

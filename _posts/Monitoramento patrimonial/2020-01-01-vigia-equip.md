@@ -1,13 +1,9 @@
 ---
 layout: article
-title: "A definir o título"
+title: Título da seção Monitoramento patrimonial
 date: 2020-01-01 00:00:00 -0000
 category: vigia-equip
-author:
-short-description:
 ---
-
------
 
 # Apresentação do projeto
 

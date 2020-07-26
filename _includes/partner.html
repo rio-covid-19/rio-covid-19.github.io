@@ -1,5 +1,6 @@
-<div class="columns">
+<div class="columns col-10 flex-vertical-center col-mx-auto">
 
+  <!-- Organization -->
   {% if site.organization == null %}
   {% else %}
     <div class="column col-12 text-center text-uppercase mt-16">
@@ -10,14 +11,15 @@
       {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
       {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
       {% if stakeholder_id == "o" %}
-      <div class="column col-3 col-sm-6 p-8 col-mx-auto">
-    <a href="{{ each_stakeholder.link }}"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+      <div class="column col-2 col-sm-6 col-mx-auto">
+        <a href="{{ each_stakeholder.link }}" target="_blank"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
     </a>
       </div>
       {% endif %}
     {% endfor %}
   {% endif %}
 
+  <!-- Funders -->
   {% if site.funding == null %}
   {% else %}
     <div class="column col-12 text-center text-uppercase mt-16">
@@ -29,13 +31,14 @@
       {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
       {% if stakeholder_id == "f" %}
       <div class="column col-5 col-sm-6 p-8 col-mx-auto">
-        <a href="{{ each_stakeholder.link }}"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+        <a href="{{ each_stakeholder.link }}" target="_blank"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
     </a>
       </div>
       {% endif %}
     {% endfor %}
   {% endif %}
 
+  <!-- Partners -->
   {% if site.partnership == null %}
   {% else %}
     <div class="column col-12 text-center text-uppercase mt-16">
@@ -47,13 +50,14 @@
       {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
       {% if stakeholder_id == "p" %}
       <div class="column col-2 col-sm-6 p-8 col-mx-auto">
-    <a href="{{ each_stakeholder.link }}"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+        <a href="{{ each_stakeholder.link }}" target="_blank"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
     </a>
       </div>
       {% endif %}
     {% endfor %}
   {% endif %}
 
+  <!-- Supporters -->
   {% if site.support == null %}
   {% else %}
     <div class="column col-12 text-center text-uppercase mt-16">
@@ -65,7 +69,7 @@
       {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
       {% if stakeholder_id == "s" %}
       <div class="column col-2 col-sm-6 p-8 col-mx-auto">
-    <a href="{{ each_stakeholder.link }}"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
+        <a href="{{ each_stakeholder.link }}" target="_blank"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
     </a>
       </div>
       {% endif %}
