@@ -43,8 +43,8 @@
   transition: .5s ease;
   -webkit-filter: grayscale(1);
    filter: grayscale(100%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+  //-ms-transform: translateY(-50%);
+  //transform: translateY(-50%);
 }
 
 .img-gray-out:hover {

@@ -2,7 +2,7 @@
 
 org-1:
   name: CEFET/RJ
-  logo: cefet_vert.png
+  logo: cefet_vert_crop.png
   link: http://www.cefet-rj.br/index.php
 
 org-2:
@@ -12,7 +12,7 @@ org-2:
 
 org-3:
   name: IEEE seção Rio de Janeiro
-  logo: seção rio logo.png
+  logo: seção rio logo_crop.png
   link: http://www.ieee.org.br/rio-de-janeiro/a-secao
 
 fund-1:
