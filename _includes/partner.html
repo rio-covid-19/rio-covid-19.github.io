@@ -11,7 +11,7 @@
       {% capture stakeholder_name %}{{ stakeholder | first }}{% endcapture %}
       {% assign each_stakeholder = site.data.stakeholders[stakeholder_name] %}
       {% if stakeholder_id == "o" %}
-      <div class="column col-2 col-sm-6 col-mx-auto">
+      <div class="column col-3 col-sm-6 p-8 col-mx-auto">
         <a href="{{ each_stakeholder.link }}" target="_blank"><img class="img-responsive img-fit-contain img-gray-out" src="/assets/{{ each_stakeholder.logo }}" alt="{{ each_stakeholder.name }}">
     </a>
       </div>
