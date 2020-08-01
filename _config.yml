@@ -65,9 +65,9 @@ nav_button_link: /contribua
 
 # Stakeholders
 organization: Organização
-funding: Financiamento
+funding: # Financiamento
 partnership: Parceria
-support: # Apoio
+support: Apoio
 
 # Build settings
 theme: minima
