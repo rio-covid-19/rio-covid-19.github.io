@@ -1,0 +1,208 @@
+#Add your stakeholders here
+#Ordem_max: 8
+
+volunteer-1:
+  name: Yuri Bastos Gabrich
+  role: Leader
+  link: www.google.com
+  e-mail: yuri.gabrich.br@ieee.org
+  Instagram: www.google.com
+  Linkedin: www.google.com
+  Ordem: 2
+
+volunteer-2:
+  name: Oumar Diene
+  role: Vice Leader
+  link:
+  e-mail: oumar@dee.ufrj.br
+  Instagram:  
+  Linkedin:
+  Ordem: 3
+
+volunteer-3:
+  name: Thomas Moreira Campello
+  role: Treasurer
+  link: 
+  e-mail: t.m.campello@ieee.org
+  Instagram:
+  Linkedin:
+  Ordem: 4
+
+volunteer-4: 
+  name: Gidy Carolina Florez Navarro
+  role: Advisor
+  link:
+  e-mail: gidy.florez@ieee.org
+  Instagram: 
+  Linkedin:
+  Ordem: 5
+ 
+volunteer-5:
+  name: Marcos V. K. de M. C. Azevedo
+  role: HR Manager
+  link: 
+  e-mail: marcos.magalhaes@ieee.org
+  Instagram:
+  Linkedin:
+  Ordem: 5
+
+volunteer-6:
+  name: Fernando de Oliveira Lima
+  role: Strategy Manager
+  link:
+  e-mail: folivelima@gmail.com
+  Instagram:
+  Linkedin:
+  Ordem: 5  
+
+volunteer-7:
+  name: Alexandre Pinhel
+  role: Partnership Strategist
+  link: 
+  e-mail: pinhel@ieee.org
+  Instagram:
+  Linkedin:
+  Ordem: 5
+  
+volunteer-8: 
+  name: José Andrés Santisteban Larrea
+  role: Live Events Manager
+  link:
+  e-mail: josesantisteban@id.uff.br
+  Instagram: 
+  Linkedin:
+  Ordem: 5  
+ 
+volunteer-9:
+  name: Alexandre Ferreli Souza
+  role: Advisor
+  link: 
+  e-mail: ferreli@ieee.org
+  Instagram:
+  Linkedin:
+  Ordem: 5
+
+volunteer-10:
+  name: Felipe Neves Piancó
+  role: Technician
+  link:
+  e-mail: piancofelipe@ieee.org
+  Instagram:  
+  Linkedin:
+  Ordem: 7
+
+volunteer-11:
+  name: Julia Aguiar Neri da Silva
+  role: Technician
+  link: 
+  e-mail: julianeri@ieee.org
+  Instagram:
+  Linkedin:
+  Ordem: 7
+
+volunteer-12: 
+  name: Neilson Fernandes Dantas
+  role: Technician
+  link:
+  e-mail: 
+  Instagram: 
+  Linkedin:
+  Ordem: 7  
+volunteer-13:
+  name: Marcela Brandão Costa de Souza
+  role: Technician
+  link: 
+  e-mail: marcelabrandaocosta2211@gmail.com
+  Instagram:
+  Linkedin:
+  Ordem: 7
+
+volunteer-14:
+  name: Heitor Mendes
+  role: Professor
+  link:
+  e-mail:
+  Instagram: 
+  Linkedin:
+  Ordem: 6  
+
+volunteer-15:
+  name: Carlos Travessa
+  role: Professor
+  link: 
+  e-mail:
+  Instagram:
+  Linkedin:
+  Ordem: 6
+
+volunteer-16: 
+  name: Júlio Cesar Santos
+  role: Professor
+  link:
+  e-mail:
+  Instagram: 
+  Linkedin:
+  Ordem: 6  
+ 
+volunteer-17:
+  name: Wanderson Alves de Araújo
+  role: Expecialist
+  link: 
+  e-mail: wanderson.araujo@nsmedical.com.br
+  Instagram:
+  Linkedin:
+  Ordem: 7
+  
+volunteer-18:
+  name: Maurício Motta
+  role: Principal
+  link:
+  e-mail: mauricio.motta@cefet-rj.br
+  Instagram:  
+  Linkedin:
+  Ordem: 1
+
+volunteer-19:
+  name: Rodrigo de Sa Leitao Martins
+  role: Marketing
+  link: 
+  e-mail: rodrigomartins@id.uff.br
+  Instagram:
+  Linkedin:
+  Ordem: 5
+
+volunteer-20: 
+  name: Anderson Patrício
+  role: Technician
+  link:
+  e-mail: andersonresende@poli.ufrj.br
+  Instagram:
+  Linkedin:
+  Ordem: 7 
+ 
+volunteer-21:
+  name: Luana Kin Lian
+  role: Marketing
+  link: 
+  e-mail: luana.kin@ieee.org 
+  Instagram:
+  Linkedin:
+  Ordem: 8
+
+volunteer-22:
+  name: Vanessa Peres Lopes
+  role: Marketing
+  link:
+  e-mail: vanessaperesl@outlook.com
+  Instagram: 
+  Linkedin:  
+  Ordem: 8
+
+volunteer-23:
+  name: Luciano Netto de Lima
+  role: Marketing
+  link: 
+  e-mail: lucianolnl@gmail.com
+  Instagram: 
+  Linkedin:
+  Ordem: 8
