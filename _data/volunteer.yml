@@ -3,206 +3,232 @@
 
 volunteer-1:
   name: Yuri Bastos Gabrich
-  role: Leader
+  role: Coordernador do Projeto IEEE E.A.V.M
   link: www.google.com
-  e-mail: yuri.gabrich.br@ieee.org
+  e-mail: 
   Instagram: www.google.com
-  Linkedin: www.google.com
-  Ordem: 2
-
-volunteer-2:
-  name: Oumar Diene
-  role: Vice Leader
-  link:
-  e-mail: oumar@dee.ufrj.br
-  Instagram:  
   Linkedin:
+  grupo: organizacao
   Ordem: 3
-
-volunteer-3:
-  name: Thomas Moreira Campello
-  role: Treasurer
-  link: 
-  e-mail: t.m.campello@ieee.org
-  Instagram:
-  Linkedin:
-  Ordem: 4
-
-volunteer-4: 
-  name: Gidy Carolina Florez Navarro
-  role: Advisor
-  link:
-  e-mail: gidy.florez@ieee.org
-  Instagram: 
-  Linkedin:
-  Ordem: 5
- 
-volunteer-5:
-  name: Marcos V. K. de M. C. Azevedo
-  role: HR Manager
-  link: 
-  e-mail: marcos.magalhaes@ieee.org
-  Instagram:
-  Linkedin:
-  Ordem: 5
-
-volunteer-6:
-  name: Fernando de Oliveira Lima
-  role: Strategy Manager
-  link:
-  e-mail: folivelima@gmail.com
-  Instagram:
-  Linkedin:
-  Ordem: 5  
-
-volunteer-7:
+  
+volunteer-2:
   name: Alexandre Pinhel
-  role: Partnership Strategist
+  role: Coordenador do Núcleo de Reparos
   link: 
   e-mail: pinhel@ieee.org
-  Instagram:
-  Linkedin:
-  Ordem: 5
+  Instagram: www.google.com
+  Linkedin: 
+  grupo: organizacao
+  Ordem: 2
   
-volunteer-8: 
-  name: José Andrés Santisteban Larrea
-  role: Live Events Manager
-  link:
-  e-mail: josesantisteban@id.uff.br
-  Instagram: 
-  Linkedin:
-  Ordem: 5  
- 
-volunteer-9:
-  name: Alexandre Ferreli Souza
-  role: Advisor
-  link: 
-  e-mail: ferreli@ieee.org
-  Instagram:
-  Linkedin:
-  Ordem: 5
-
-volunteer-10:
-  name: Felipe Neves Piancó
-  role: Technician
-  link:
-  e-mail: piancofelipe@ieee.org
-  Instagram:  
-  Linkedin:
-  Ordem: 7
-
-volunteer-11:
-  name: Julia Aguiar Neri da Silva
-  role: Technician
-  link: 
-  e-mail: julianeri@ieee.org
-  Instagram:
-  Linkedin:
-  Ordem: 7
-
-volunteer-12: 
-  name: Neilson Fernandes Dantas
-  role: Technician
-  link:
-  e-mail: 
-  Instagram: 
-  Linkedin:
-  Ordem: 7  
-volunteer-13:
-  name: Marcela Brandão Costa de Souza
-  role: Technician
-  link: 
-  e-mail: marcelabrandaocosta2211@gmail.com
-  Instagram:
-  Linkedin:
-  Ordem: 7
-
-volunteer-14:
-  name: Heitor Mendes
-  role: Professor
-  link:
-  e-mail:
-  Instagram: 
-  Linkedin:
-  Ordem: 6  
-
-volunteer-15:
-  name: Carlos Travessa
-  role: Professor
-  link: 
-  e-mail:
-  Instagram:
-  Linkedin:
-  Ordem: 6
-
-volunteer-16: 
-  name: Júlio Cesar Santos
-  role: Professor
-  link:
-  e-mail:
-  Instagram: 
-  Linkedin:
-  Ordem: 6  
- 
-volunteer-17:
-  name: Wanderson Alves de Araújo
-  role: Expecialist
-  link: 
-  e-mail: wanderson.araujo@nsmedical.com.br
-  Instagram:
-  Linkedin:
-  Ordem: 7
-  
-volunteer-18:
+volunteer-3:
   name: Maurício Motta
-  role: Principal
+  role: Coordenador do Núcleo de Reparos
   link:
   e-mail: mauricio.motta@cefet-rj.br
   Instagram:  
   Linkedin:
+  grupo: organizacao
+  Ordem: 1
+  
+  ##
+  ##
+  ##
+  
+volunteer-4:
+  name: Oumar Diene
+  role: Vice-coord. do Projeto IEEE E.A.V.M
+  link:
+  e-mail: oumar@dee.ufrj.br
+  Instagram:  
+  Linkedin:
+  grupo: admin
   Ordem: 1
 
-volunteer-19:
+volunteer-5:
+  name: Thomas Campello
+  role: Tesoureiro do Projeto IEEE E.A.V.M
+  link: 
+  e-mail: t.m.campello@ieee.org
+  Instagram:
+  Linkedin:
+  grupo: admin
+  Ordem: 2
+
+volunteer-6: 
+  name: Gidy Navarro
+  role: Concelheira do Projeto IEEE E.A.V.M
+  link:
+  e-mail: gidy.florez@ieee.org
+  Instagram: 
+  Linkedin:
+  grupo: admin
+  Ordem: 4
+ 
+volunteer-7:
+  name: Marcos Azevedo
+  role: Gerente de RH do Projeto IEEE E.A.V.M
+  link: 
+  e-mail: marcos.magalhaes@ieee.org
+  Instagram: Voluntários técnicos para manutenção
+  Linkedin: Voluntários técnicos para manutenção
+  grupo: admin
+  Ordem: 3
+
+volunteer-8:
+  name: Fernando Lima
+  role: do Projeto IEEE E.A.V.M
+  link:
+  e-mail: folivelima@gmail.com
+  Instagram:
+  Linkedin:
+  grupo: admin
+  Ordem: 3  
+  
+volunteer-9: 
+  name: José Santisteban
+  role: Responsável por eventos online
+  link:
+  e-mail: josesantisteban@id.uff.br
+  Instagram: 
+  Linkedin:
+  grupo: admin
+  Ordem: 4  
+
+##
+##
+##
+
+volunteer-10:
+  name: Felipe Neves Piancó
+  role: Voluntários técnicos para manutenção
+  link:
+  e-mail: piancofelipe@ieee.org
+  Instagram:  
+  Linkedin:
+  grupo: tecnico
+  Ordem: 2
+
+volunteer-11:
+  name: Julia Aguiar Neri da Silva
+  role: Voluntários técnicos para manutenção
+  link: 
+  e-mail: julianeri@ieee.org
+  Instagram:
+  Linkedin:
+  grupo: tecnico
+  Ordem: 2
+
+volunteer-12: 
+  name: Neilson Fernandes Dantas
+  role: Voluntários técnicos para manutenção
+  link:
+  e-mail: 
+  Instagram: 
+  Linkedin:
+  grupo: tecnico
+  Ordem: 2  
+  
+volunteer-13:
+  name: Marcela Brandão Costa de Souza
+  role: Voluntários técnicos para manutenção
+  link: 
+  e-mail: marcelabrandaocosta2211@gmail.com
+  Instagram:
+  Linkedin:
+  grupo: tecnico
+  Ordem: 2
+
+volunteer-14:
+  name: Professor Heitor Mendes
+  role: Voluntários técnicos para manutenção
+  link:
+  e-mail:
+  Instagram: 
+  Linkedin:
+  grupo: tecnico
+  Ordem: 1  
+
+volunteer-15:
+  name: Professor Carlos Travessa
+  role: Voluntários técnicos para manutenção
+  link: 
+  e-mail:
+  Instagram:
+  Linkedin:
+  grupo: tecnico
+  Ordem: 1
+
+volunteer-16: 
+  name: Professor Júlio Cesar Santos
+  role: Voluntários técnicos para manutenção
+  link:
+  e-mail:
+  Instagram: 
+  Linkedin:
+  grupo: tecnico
+  Ordem: 1  
+ 
+volunteer-17:
+  name: Wanderson Alves de Araújo
+  role: Voluntários técnicos para manutenção
+  link: 
+  e-mail: wanderson.araujo@nsmedical.com.br
+  Instagram:
+  Linkedin:
+  grupo: tecnico
+  Ordem: 1
+  
+##
+##
+##
+
+volunteer-18:
   name: Rodrigo de Sa Leitao Martins
   role: Marketing
   link: 
   e-mail: rodrigomartins@id.uff.br
   Instagram:
   Linkedin:
-  Ordem: 5
+  grupo: mkt
+  Ordem: 1
 
-volunteer-20: 
+volunteer-19: 
   name: Anderson Patrício
-  role: Technician
+  role: Voluntários técnicos para manutenção
   link:
   e-mail: andersonresende@poli.ufrj.br
   Instagram:
   Linkedin:
-  Ordem: 7 
+  grupo: tecnico
+  Ordem: 1 
  
-volunteer-21:
+volunteer-20:
   name: Luana Kin Lian
   role: Marketing
   link: 
   e-mail: luana.kin@ieee.org 
   Instagram:
   Linkedin:
-  Ordem: 8
+  grupo: mkt
+  Ordem: 1
 
-volunteer-22:
+volunteer-21:
   name: Vanessa Peres Lopes
   role: Marketing
   link:
   e-mail: vanessaperesl@outlook.com
   Instagram: 
   Linkedin:  
-  Ordem: 8
+  grupo: mkt
+  Ordem: 1
 
-volunteer-23:
+volunteer-22:
   name: Luciano Netto de Lima
   role: Marketing
   link: 
   e-mail: lucianolnl@gmail.com
   Instagram: 
   Linkedin:
-  Ordem: 8
+  grupo: mkt
+  Ordem: 1
