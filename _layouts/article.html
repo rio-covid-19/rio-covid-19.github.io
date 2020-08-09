@@ -53,7 +53,10 @@ layout: default
           <div class="card">
             <div class="card-body">
               
-              <h3>{{ post.title }}</h3>
+              {% if post.title == null %}
+              {% else %}
+                <h3>{{ post.title }}</h3>
+              {% endif %}
               
               {{ post.content }}
 
