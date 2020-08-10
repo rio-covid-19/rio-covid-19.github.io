@@ -1,0 +1,22 @@
+// Carousel
+/* external css: flickity.css */
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.gallery-cell {
+  width: 40%;
+  height: 150px;
+  margin-right: 40px;
+  opacity: 1;
+  -webkit-filter: grayscale(1);
+  filter: grayscale(100%);
+  pointer-events: none;
+}
+
+.gallery-cell.is-selected {
+  -webkit-filter: none;
+  pointer-events: auto;
+}

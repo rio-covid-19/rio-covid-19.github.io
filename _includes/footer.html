@@ -49,10 +49,18 @@
       <div class="column col-12 text-center">
 	<ul class="list-pipe">
 	  <li><a href="/">Home</a></li>
-	  <li><a href="{{ site.nav_item_one_link }}">{{ site.nav_item_one }}</a></li>
+	  {% if site.nav_item_one != null %}
+	    <li><a href="{{ site.nav_item_one_link }}">{{ site.nav_item_one }}</a></li>
+	  {% endif %}
+	  {% if site.nav_item_two != null %}
 	  <li><a href="{{ site.nav_item_two_link }}">{{ site.nav_item_two }}</a></li>
+	  {% endif %}
+	  {% if site.nav_item_three != null %}
 	  <li><a href="{{ site.nav_item_three_link }}">{{ site.nav_item_three }}</a></li>
+	  {% endif %}
+	  {% if site.nav_button != null %}
 	  <li><a href="{{ site.nav_button_link }}">{{ site.nav_button }}</a></li>
+	  {% endif %}
 	</ul>
       </div>
 
