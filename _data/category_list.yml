@@ -5,7 +5,7 @@ about:
   description:
 voluntarios:
   name: Voluntários
-  description: Nomes, cargos e descrições dos voluntários
+  description: Atribuições principais, contato e declarações dos voluntários
 resultados:
   name: Resultados
   description: Descrição dos resultados do projeto

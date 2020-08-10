@@ -22,21 +22,23 @@ title: ""
 	        <td style="text-align: right">{{ volunteer.role }}</td>
 		
 	        <td style="text-align: center">
-		    {% if volunteer.e-mail != null %}
-		        <a href="mailto:{{ volunteer.e-mail }}" target="_blank"><i class="uil uil-envelope"></i></a>
+		    {% if volunteer.contact == null %}
+		        <!-- deixa em branco -->
 		    {% else %}
-		        {% if volunteer.Linkedin != null %}
-		            <a href="https://{{ volunteer.Linkedin }}" target="_blank"><i class="uil uil-linkedin"></i></a>
-		        {% else %}
-		            {% if volunteer.Lattes != null %}
-		                <a href="https://{{ volunteer.Lattes }}" target="_blank"><i class="uil uil-lattes"></i></a>
-		            {% else %}
-		                {% if volunteer.Instagram != null %}
-		                    <a href="https://{{ volunteer.Instagram }}" target="_blank"><i class="uil uil-instagram"></i></a>
-		                {% else %}
-		                    <!-- deixa em branco -->
-		                {% endif %}
-		            {% endif %}
+		        {% if volunteer.contact_type == 'email' %}
+		            <a href="mailto:{{ volunteer.contact }}" target="_blank"><i class="uil uil-envelope"></i></a>
+		        {% endif %}
+		        {% if volunteer.contact_type == 'linkedin' %}
+		            <a href="https://{{ volunteer.contact }}" target="_blank"><i class="uil uil-linkedin"></i></a>
+		        {% endif %}
+		        {% if volunteer.contact_type == 'lattes' %}
+		            <a href="https://{{ volunteer.contact }}" target="_blank"><i class="ai ai-lattes"></i></a>
+		        {% endif %}
+		        {% if volunteer.contact_type == 'insta' %}
+		            <a href="https://{{ volunteer.contact }}" target="_blank"><i class="uil uil-instagram"></i></a>
+		        {% endif %}
+		        {% if volunteer.contact_type == 'web' %}
+		            <a href="https://{{ volunteer.contact }}" target="_blank"><i class="uil uil-globe"></i></a>
 		        {% endif %}
 		    {% endif %}
 		</td>

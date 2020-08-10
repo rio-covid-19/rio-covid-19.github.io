@@ -1,226 +1,211 @@
-#Add your volunteers here
+# Add your volunteers here
+#   contact_type: email, linkedin, lattes, insta, web
 
-volunteer-3:
+volunteer-1:
   name: Maurício Motta
   role: coordenadores do NRVM
   link:
-  e-mail: mauricio.motta@cefet-rj.br
-  Instagram:  
-  Linkedin:
+  contact: #mauricio.motta@cefet-rj.br
+  contact_type: email
   grupo: organizacao
 
 volunteer-2:
   name: Alexandre Pinhel
   role: 
   link: 
-  e-mail: pinhel@ieee.org
-  Instagram: www.google.com
-  Linkedin: 
+  contact: #pinhel@ieee.org
+  contact_type: email
   grupo: organizacao
 
-volunteer-15:
+volunteer-3:
   name: Carlos Travessa
   role: guardiões do NRVM
   link: 
-  e-mail:
-  Instagram:
-  Linkedin:
+  contact: www.google.com
+  contact_type: linkedin
   grupo: tecnico
 
-volunteer-14:
+volunteer-4:
   name: Heitor Mendes
   role:
   link:
-  e-mail:
-  Instagram: 
-  Linkedin:
+  contact: www.google.com
+  contact_type: lattes
   grupo: tecnico
 
-volunteer-16: 
-  name: Julio César Santos
-  role: higienizador master
+volunteer-5:
+  name: Aldecir Alves de Araújo
+  role:
   link:
-  e-mail:
-  Instagram: 
-  Linkedin:
+  contact: www.google.com
+  contact_type: insta
+  grupo: tecnico
+
+volunteer-6:
+  name: Rogério Pires dos Santos
+  role: especialista em reparos
+  link:
+  contact: www.google.com
+  contact_type: web
+  grupo: tecnico
+
+volunteer-7: 
+  name: Julio César Santos
+  role: enfermeiro higienizador
+  link:
+  contact:
+  contact_type: email
   grupo: tecnico
  
-volunteer-17:
+volunteer-8:
   name: Wanderson Alves de Araújo
   role: aferidor especialista
   link: 
-  e-mail: wanderson.araujo@nsmedical.com.br
+  contact: #wanderson.araujo@nsmedical.com.br
   Instagram:
-  Linkedin:
   grupo: tecnico
 
 volunteer-9: 
   name: José Santisteban
   role: organizador de eventos online
   link:
-  e-mail: josesantisteban@id.uff.br
-  Instagram: 
-  Linkedin:
+  contact: josesantisteban@id.uff.br
+  contact_type: email
   grupo: admin
 
-volunteer-1:
+volunteer-10:
   name: Yuri Bastos Gabrich
   role: coordernador do EAVM
   link: www.google.com
-  e-mail: 
-  Instagram: www.google.com
-  Linkedin:
+  contact: www.google.com
+  contact_type: web
   grupo: organizacao
 
-volunteer-4:
+volunteer-11:
   name: Oumar Diene
   role: vice-coordenador do EAVM
   link:
-  e-mail: oumar@dee.ufrj.br
-  Instagram:  
-  Linkedin:
+  contact: #oumar@dee.ufrj.br
+  contact_type: email
   grupo: organizacao
 
-volunteer-5:
+volunteer-12:
   name: Thomas Campello
   role: tesoureiro do EAVM
   link: 
-  e-mail: t.m.campello@ieee.org
-  Instagram:
-  Linkedin:
+  contact: #t.m.campello@ieee.org
+  contact_type:
   grupo: admin
 
-volunteer-6: 
+volunteer-13: 
   name: Gidy Navarro
   role: conselheira do EAVM
   link:
-  e-mail: gidy.florez@ieee.org
-  Instagram: 
-  Linkedin:
+  contact: #gidy.florez@ieee.org
+  contact_type: email
   grupo: admin
  
-volunteer-7:
+volunteer-14:
   name: Marcos Azevedo
   role: recrutador do EAVM
   link: 
-  e-mail: marcos.magalhaes@ieee.org
-  Instagram: Voluntários técnicos para manutenção
-  Linkedin: Voluntários técnicos para manutenção
+  contact: #marcos.magalhaes@ieee.org
+  contact_type:
   grupo: admin
 
-volunteer-8:
+volunteer-15:
   name: Fernando Lima
-  role: ... do EAVM
+  role: facilitador do EAVM
   link:
-  e-mail: folivelima@gmail.com
-  Instagram:
-  Linkedin:
+  contact: #folivelima@gmail.com
+  contact_type:
   grupo: admin
 
-##
-##
-##
-
-volunteer-19:
+volunteer-16:
   name: Anderson Patrício
   role: equipe de manutenção
   link:
-  e-mail: andersonresende@poli.ufrj.br
-  Instagram:
-  Linkedin:
+  contact: #andersonresende@poli.ufrj.br
+  contact_type:
   grupo: tecnico
 
-volunteer-10:
+volunteer-17:
   name: Felipe Neves Piancó
   role:
   link:
-  e-mail: piancofelipe@ieee.org
-  Instagram:  
-  Linkedin:
+  contact: #piancofelipe@ieee.org
+  contact_type: email
   grupo: tecnico
 
-volunteer-11:
+volunteer-18:
   name: Julia Aguiar Neri da Silva
   role:
   link: 
-  e-mail: julianeri@ieee.org
-  Instagram:
-  Linkedin:
+  contact: #julianeri@ieee.org
+  contact_type:
   grupo: tecnico
 
-volunteer-13:
+volunteer-19:
   name: Marcela Brandão Costa de Souza
   role:
   link: 
-  e-mail: marcelabrandaocosta2211@gmail.com
-  Instagram:
-  Linkedin:
+  contact: #marcelabrandaocosta2211@gmail.com
+  contact_type:
   grupo: tecnico
 
-volunteer-12:
+volunteer-20:
   name: Neilson Fernandes Dantas
   role:
   link:
-  e-mail: 
-  Instagram: 
-  Linkedin:
+  contact: 
+  contact_type: email
   grupo: tecnico
 
-volunteer-23:
-  name: Raphael ...
+volunteer-21:
+  name: Raphael Reis
   role: prototipador de impressão 3D
   link: 
-  e-mail:
-  Instagram: 
-  Linkedin:
+  contact:
+  contact_type: email
   grupo: tecnico
 
-##
-##
-##
-
-volunteer-20:
+volunteer-22:
   name: Luana Kin Lian
   role: equipe de mídia social e comunicação
   link: 
-  e-mail: luana.kin@ieee.org 
-  Instagram:
-  Linkedin:
+  contact: #luana.kin@ieee.org 
+  contact_type:
   grupo: admin
 
-volunteer-22:
+volunteer-23:
   name: Luciano Netto de Lima
   role:
   link: 
-  e-mail: lucianolnl@gmail.com
-  Instagram: 
-  Linkedin:
-  grupo: admin
-
-volunteer-18:
-  name: Rodrigo de Sa Leitao Martins
-  role: # criador de dados visuais
-  link: 
-  e-mail: rodrigomartins@id.uff.br
-  Instagram:
-  Linkedin:
+  contact: #lucianolnl@gmail.com
+  contact_type: email
   grupo: admin
 
 volunteer-24:
+  name: Rodrigo de Sa Leitao Martins
+  role: # criador de dados visuais
+  link: 
+  contact: #rodrigomartins@id.uff.br
+  contact_type:
+  grupo: admin
+
+volunteer-25:
   name: Thales Abreu
   role: # técnico audiovisual
   link: 
-  e-mail: 
-  Instagram: 
-  Linkedin:
+  contact: 
+  contact_type: email
   grupo: admin
 
-volunteer-21:
+volunteer-26:
   name: Vanessa Peres Lopes
   role:
   link:
-  e-mail: vanessaperesl@outlook.com
-  Instagram: 
-  Linkedin:  
+  contact: #vanessaperesl@outlook.com
+  contact_type: email
   grupo: admin
 
