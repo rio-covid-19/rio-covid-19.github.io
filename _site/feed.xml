@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-22T10:28:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Núcleo de Reparo de Ventiladores Mecânicos</title><subtitle>Programa voluntário de combate à COVID-19 no estado do Rio de Janeiro.</subtitle><entry><title type="html">Um pouco sobre a iniciativa</title><link href="http://localhost:4000/about/about" rel="alternate" type="text/html" title="Um pouco sobre a iniciativa" /><published>2019-12-31T21:00:00-03:00</published><updated>2020-07-22T10:24:47-03:00</updated><id>http://localhost:4000/about/about</id><content type="html" xml:base="http://localhost:4000/about/about">&lt;h1 id=&quot;como-surgiu&quot;&gt;Como surgiu&lt;/h1&gt;
+
+&lt;h1 id=&quot;propósito&quot;&gt;Propósito&lt;/h1&gt;
+
+&lt;h1 id=&quot;networking&quot;&gt;Networking…&lt;/h1&gt;</content><author><name></name></author><category term="about" /><summary type="html">Como surgiu</summary></entry><entry><title type="html">Título da seção Colaboração Técnica</title><link href="http://localhost:4000/colab-tec/sinergia" rel="alternate" type="text/html" title="Título da seção Colaboração Técnica" /><published>2019-12-31T21:00:00-03:00</published><updated>2020-07-22T10:28:29-03:00</updated><id>http://localhost:4000/colab-tec/sinergia</id><content type="html" xml:base="http://localhost:4000/colab-tec/sinergia">&lt;h1 id=&quot;apresentação-do-projeto&quot;&gt;Apresentação do projeto&lt;/h1&gt;
+
+&lt;h1 id=&quot;implementação&quot;&gt;Implementação&lt;/h1&gt;
+
+&lt;h1 id=&quot;resultados&quot;&gt;Resultados&lt;/h1&gt;</content><author><name></name></author><category term="colab-tec" /><summary type="html">Apresentação do projeto</summary></entry><entry><title type="html">Título da seção Mapeamento de consertos</title><link href="http://localhost:4000/mapa-consertos/sos-tec-saude" rel="alternate" type="text/html" title="Título da seção Mapeamento de consertos" /><published>2019-12-31T21:00:00-03:00</published><updated>2020-07-22T10:28:29-03:00</updated><id>http://localhost:4000/mapa-consertos/sos-tec-saude</id><content type="html" xml:base="http://localhost:4000/mapa-consertos/sos-tec-saude">&lt;h1 id=&quot;apresentação-do-projeto&quot;&gt;Apresentação do projeto&lt;/h1&gt;
+
+&lt;h1 id=&quot;implementação&quot;&gt;Implementação&lt;/h1&gt;
+
+&lt;h1 id=&quot;resultados&quot;&gt;Resultados&lt;/h1&gt;</content><author><name></name></author><category term="mapa-consertos" /><summary type="html">Apresentação do projeto</summary></entry><entry><title type="html">Título da seção Monitoramento da saúde</title><link href="http://localhost:4000/vigia-saude/linha-de-frente" rel="alternate" type="text/html" title="Título da seção Monitoramento da saúde" /><published>2019-12-31T21:00:00-03:00</published><updated>2020-07-22T10:28:29-03:00</updated><id>http://localhost:4000/vigia-saude/linha-de-frente</id><content type="html" xml:base="http://localhost:4000/vigia-saude/linha-de-frente">&lt;h1 id=&quot;apresentação-do-projeto&quot;&gt;Apresentação do projeto&lt;/h1&gt;
+
+&lt;h1 id=&quot;implementação&quot;&gt;Implementação&lt;/h1&gt;
+
+&lt;h1 id=&quot;resultados&quot;&gt;Resultados&lt;/h1&gt;</content><author><name></name></author><category term="vigia-saude" /><summary type="html">Apresentação do projeto</summary></entry><entry><title type="html">Título da seção Monitoramento patrimonial</title><link href="http://localhost:4000/vigia-equip/vigia-equip" rel="alternate" type="text/html" title="Título da seção Monitoramento patrimonial" /><published>2019-12-31T21:00:00-03:00</published><updated>2020-07-22T10:28:29-03:00</updated><id>http://localhost:4000/vigia-equip/vigia-equip</id><content type="html" xml:base="http://localhost:4000/vigia-equip/vigia-equip">&lt;h1 id=&quot;apresentação-do-projeto&quot;&gt;Apresentação do projeto&lt;/h1&gt;
+
+&lt;h1 id=&quot;implementação&quot;&gt;Implementação&lt;/h1&gt;
+
+&lt;h1 id=&quot;resultados&quot;&gt;Resultados&lt;/h1&gt;</content><author><name></name></author><category term="vigia-equip" /><summary type="html">Apresentação do projeto</summary></entry></feed>

@@ -76,6 +76,14 @@
     flex-wrap: nowrap;
     overflow-x: auto;
   }
+
+  &.col-move {
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    // auto?
+  }
 }
 
 /*@media (min-width: $size-md) {

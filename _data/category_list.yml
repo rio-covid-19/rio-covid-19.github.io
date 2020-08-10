@@ -1,5 +1,17 @@
 #This file defines all the categories you are using
 
+about:
+  name: Sobre
+  description:
+voluntarios:
+  name: Voluntários
+  description: Nomes, cargos e descrições dos voluntários
+resultados:
+  name: Resultados
+  description: Descrição dos resultados do projeto
+contribua:
+  namor: Contribua
+  description: Contribua financeiramente para o projeto através de doações
 
 mapa-consertos:
   name: Mapeamento de consertos
@@ -8,8 +20,8 @@ vigia-saude:
   name: Monitoramento da saúde
   description: Projeto "Linha de Frente"
 vigia-equip:
-  name: Monitoramento dos equipamentos
+  name: Monitoramento patrimonial
   description: Projeto "..."
-expande-mente:
+colab-tec:
   name: Colaboração técnica
-  description: Projeto "Engineers Assisting Ventilator Maintenance"
+  description: Sinergia em diferentes estágios do reparo

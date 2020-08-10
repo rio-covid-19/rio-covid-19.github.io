@@ -1,0 +1,37 @@
+# Add valuable news here
+
+news-1:
+  title: SES começa a recuperar ventiladores mecânicos em parceria com Cefet-RJ, Furnas e outras instituições
+  source: SES-RJ
+  kind: text
+  link: https://www.saude.rj.gov.br/noticias/2020/07/ses-comeca-a-recuperar-ventiladores-mecanicos-em-parceria-com-cefet-rj-furnas-e-outras-instituicoes
+
+news-2:
+  title: Central de reparos do Cefet/RJ faz primeira entrega de respiradores consertados
+  source: CEFET/RJ
+  kind: text
+  link: http://www.cefet-rj.br/index.php/component/content/article?id=5184
+
+news-3:
+  title: Professores do Cefet/RJ criam central de reparos de respiradores hospitalares
+  source: CEFET/RJ
+  kind: text
+  link: http://www.cefet-rj.br/index.php/noticias/5044-coronavirus-professores-do-cefet-rj-criam-central-de-reparos-de-respiradores-hospitalares
+
+news-4:
+  title: Equipe do Cefet/RJ lança aplicativo que viabiliza conserto de equipamentos hospitalares
+  source: CEFET/RJ
+  kind: text
+  link: http://www.cefet-rj.br/index.php/noticias-campus-nova-iguacu/4980-equipe-do-cefet-rj-lanca-aplicativo-que-viabiliza-conserto-de-equipamentos-hospitalares
+
+news-5:
+  title: Projeto do Cefet/RJ está recuperando respiradores hospitalares
+  source: ACRJ
+  kind: text
+  link: https://acrj.org.br/index.php/2020/07/08/projeto-do-cefet-rj-esta-recuperando-respiradores-hospitalares/
+
+news-6:
+  title: Voluntários consertam ventiladores mecânicos para ajudar no combate à COVID-19-Vida
+  source: Rede Vida
+  kind: video
+  link: https://www.youtube.com/watch?v=JB_XC0RMv-A

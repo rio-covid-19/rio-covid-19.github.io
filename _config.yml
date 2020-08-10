@@ -22,7 +22,6 @@
 # Site's Identification
 title: Núcleo de Reparo de Ventiladores Mecânicos
 description: Programa voluntário de combate à COVID-19 no estado do Rio de Janeiro.
-baseurl: / # the subpath of your site, e.g. /support
 url: https://rio-covid-19.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
@@ -33,41 +32,42 @@ brand_logo: logo.png
 brand_moto: Juntos contra o COVID-19
 header: Núcleo de Reparo de Ventiladores Mecânicos
 subheader: Conheça mais sobre a iniciativa e contribua você também!
+activity: Atividades
+abstract: Mussum Ipsum, cacilds vidis litro abertis. Leite de capivaris, leite de mula manquis sem cabeça. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Quem manda na minha terra sou euzis! Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.
+foot_descrip: O Núcleo de Reparo de Ventiladores Mecânicos é uma iniciativa que integra os diversos esforços da sociedade no combate ao COVID-19. Localizada no estado do Rio de Janeiro, é composta por uma rede de estudantes e profissionais de várias áreas da engenharia.
+
+news: divulgação...
 
 meta_image: odin-meta.png
 
 # Social Links
-# twitter_username: 
-# facebook_page:
-# github_username: 
-email: contato@projeto.com
-# linkedin_page:
-# instagram_username: 
+twitter_username: #
+facebook_page: #
+github_username: rio-covid-19
+email: ieee.eavm@gmail.com
+linkedin_page: #
+instagram_username: ieee.rio.eavm
 
 
-# Navivation
+# Navigation
 nav_item_one: Sobre
-nav_item_one_link: # https://github.com/TeaGuns/odin
+nav_item_one_link: /about
 
 nav_item_two: Resultados
-nav_item_two_link: # https://twitter.com/TheTeaGuns
+nav_item_two_link: /resultados
 
 nav_item_three: Voluntários
-nav_item_three_link: #
+nav_item_three_link: /voluntarios
 
 nav_button: Contribua
-nav_button_link: # https://teaguns.github.io/odin/
+nav_button_link: /contribua
 
-# Partners
-# help_one_title: 
-# help_one_content: 
-help_one_button: ![White Martins](http://www.praxair.com.br/-/media/corporate/praxair-brazil/images/praxair-wm-logo-1.png)
-help_one_link: http://www.praxair.com.br/
 
-# help_two_title: Twitter
-# help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
-# help_two_button: Twitter
-# help_two_link: https://twitter.com/theteaguns
+# Stakeholders
+organization: Organização
+funding: Financiamento
+partnership: Parceria
+support: # Apoio
 
 # Build settings
 theme: minima

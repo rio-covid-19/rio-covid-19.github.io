@@ -16,6 +16,10 @@
   object-fit: contain;
 }
 
+.img-md {
+  width: 100px;
+}
+
 .img-sm {
   width: 64px;
 }
@@ -28,6 +32,24 @@
   margin-right: 10px;
 }
 
+.img-corner-up-right {
+  margin-top: 100px;
+  -ms-transform: translateX(-100%);
+  transform: translateX(-100%);
+}
+
+.img-gray-out {
+  opacity: 1;
+  transition: .5s ease;
+  -webkit-filter: grayscale(1);
+   filter: grayscale(100%);
+  //-ms-transform: translateY(-50%);
+  //transform: translateY(-50%);
+}
+
+.img-gray-out:hover {
+    -webkit-filter: none;
+}
 
 // Video responsive
 .video-responsive {
