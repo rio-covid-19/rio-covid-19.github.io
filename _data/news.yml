@@ -35,3 +35,15 @@ news-6:
   source: Rede Vida
   kind: video
   link: https://www.youtube.com/watch?v=JB_XC0RMv-A
+
+news-7:
+  title: Reparo voluntário de respiradores pulmonares ajuda no combate ao COVID-19
+  source: Fala! Universidades
+  kind: text
+  link: https://falauniversidades.com.br/reparo-voluntario-de-respiradores-pulmonares-ajuda-no-combate-ao-covid-19/
+
+news-8:
+  title: Reparo de ventiladores mecânicos no CEFET/RJ
+  source: IEEE events
+  kind: video
+  link: https://events.vtools.ieee.org/m/233492
