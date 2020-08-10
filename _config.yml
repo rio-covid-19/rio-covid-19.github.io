@@ -59,8 +59,8 @@ nav_item_two_link: /resultados
 nav_item_three: Voluntários
 nav_item_three_link: /voluntarios
 
-nav_button: Contribua
-nav_button_link: /contribua
+#nav_button: Contribua
+#nav_button_link: /contribua
 
 
 # Stakeholders

@@ -9,9 +9,9 @@ voluntarios:
 resultados:
   name: Resultados
   description: Descrição dos resultados do projeto
-contribua:
-  namor: Contribua
-  description: Contribua financeiramente para o projeto através de doações
+#contribua:
+#  name: Contribua
+#  description: Contribua financeiramente para o projeto através de doações
 
 mapa-consertos:
   name: Mapeamento de consertos
