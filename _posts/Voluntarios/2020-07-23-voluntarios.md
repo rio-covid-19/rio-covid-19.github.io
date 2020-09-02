@@ -23,10 +23,10 @@ title: ""
 	<tr> <th style="text-align: center" colspan=3></th> </tr>
 		{% if equipe == 1 %}
 			{% assign Grupo = 'NRVM' %}
-			<tr> <th style="text-align: center" colspan=3>Equipe do Núcleo de Reparos de Ventiladores Mecânicos (NRVM)</th> </tr>
+			<tr> <th style="text-align: center" colspan=3><h5>Equipe do Núcleo de Reparos de Ventiladores Mecânicos (NRVM)</h5></th> </tr>
 		{% else if equipe == 2 %}
 			{% assign Grupo = 'EAVM' %}
-			<tr> <th style="text-align: center" colspan=3>Equipe do Projeto "Engineers Assisting Ventilator Maintenance" (EAVM)</th> </tr>
+			<tr> <th style="text-align: center" colspan=3><h5>Equipe do Projeto "Engineers Assisting Ventilator Maintenance" (EAVM)</h5></th> </tr>
 		{% endif %}
 		<tr> <th style="text-align: center" colspan=3></th> </tr>
 		<tr> <th style="text-align: center" colspan=3></th> </tr>
