@@ -32,7 +32,7 @@ title: ""
 		<tr> <th style="text-align: center" colspan=3></th> </tr>
 		<tr> <th style="text-align: center" colspan=3></th> </tr>
 		<tr> <th style="text-align: center" colspan=3></th> </tr>
-	    {% for order in (1..5) %}
+	    {% for order in (1..6) %}
 		{% assign flag = 0 %}
             {% for data in volunteers %}
 	            {% assign volunteer = volunteers[data.first] %}
