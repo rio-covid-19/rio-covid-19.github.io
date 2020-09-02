@@ -13,7 +13,7 @@ volunteer-2:
   name: Alexandre Pinhel
   role: 
   link: 
-  contact: #pinhel@ieee.org
+  contact: pinhel@ieee.org
   contact_type: email
   grupo: organizacao
 
@@ -21,7 +21,7 @@ volunteer-3:
   name: Carlos Travessa
   role: guardiões do NRVM
   link: 
-  contact: www.google.com
+  contact: 
   contact_type: linkedin
   grupo: tecnico
 
@@ -29,7 +29,7 @@ volunteer-4:
   name: Heitor Mendes
   role:
   link:
-  contact: www.google.com
+  contact: 
   contact_type: lattes
   grupo: tecnico
 
@@ -37,7 +37,7 @@ volunteer-5:
   name: Aldecir Alves de Araújo
   role:
   link:
-  contact: www.google.com
+  contact: 
   contact_type: insta
   grupo: tecnico
 
@@ -45,7 +45,7 @@ volunteer-6:
   name: Rogério Pires dos Santos
   role: especialista em reparos
   link:
-  contact: www.google.com
+  contact: 
   contact_type: web
   grupo: tecnico
 
@@ -76,9 +76,9 @@ volunteer-9:
 volunteer-10:
   name: Yuri Bastos Gabrich
   role: coordernador do EAVM
-  link: www.google.com
-  contact: www.google.com
-  contact_type: web
+  link: 
+  contact: www.linkedin.com/in/yurigabrich
+  contact_type: linkedin
   grupo: organizacao
 
 volunteer-11:
@@ -93,8 +93,8 @@ volunteer-12:
   name: Thomas Campello
   role: tesoureiro do EAVM
   link: 
-  contact: #t.m.campello@ieee.org
-  contact_type:
+  contact: www.linkedin.com/in/thomas-campello/
+  contact_type: linkedin
   grupo: admin
 
 volunteer-13: 
@@ -117,24 +117,24 @@ volunteer-15:
   name: Fernando Lima
   role: facilitador do EAVM
   link:
-  contact: #folivelima@gmail.com
-  contact_type:
+  contact: www.linkedin.com/in/fernando-lima-47673263/
+  contact_type: linkedin
   grupo: admin
 
 volunteer-16:
   name: Anderson Patrício
   role: equipe de manutenção
   link:
-  contact: #andersonresende@poli.ufrj.br
-  contact_type:
+  contact: andersonresende@poli.ufrj.br
+  contact_type: email
   grupo: tecnico
 
 volunteer-17:
   name: Felipe Neves Piancó
   role:
   link:
-  contact: #piancofelipe@ieee.org
-  contact_type: email
+  contact: www.linkedin.com/in/piancofelipe
+  contact_type: linkedin
   grupo: tecnico
 
 volunteer-18:
@@ -173,8 +173,8 @@ volunteer-22:
   name: Luana Kin Lian
   role: equipe de mídia social e comunicação
   link: 
-  contact: #luana.kin@ieee.org 
-  contact_type:
+  contact: www.linkedin.com/in/luana-kin-lian/
+  contact_type: linkedin
   grupo: admin
 
 volunteer-23:
@@ -189,8 +189,8 @@ volunteer-24:
   name: Rodrigo de Sa Leitao Martins
   role: # criador de dados visuais
   link: 
-  contact: #rodrigomartins@id.uff.br
-  contact_type:
+  contact: https://www.linkedin.com/in/rodslmartins
+  contact_type: linkedin
   grupo: admin
 
 volunteer-25:
