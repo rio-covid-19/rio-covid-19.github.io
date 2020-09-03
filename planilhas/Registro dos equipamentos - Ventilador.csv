@@ -1,0 +1,24 @@
+Unidade,Data de Entrada,Data de Registro,Marca,Nº Série,Nº Série Tela,versão do software,Data da aferição,Estado,Data da limpeza do módulos de Ar,Data da limpeza do módulo de O2,N/S cassete,N/S bateria 1,N/S bateria 2,Bateria com parafusos?,Data de devolução,Responsável pela informação,Comentários
+Getúlio Vargas (HEGV),19/06/2020,03/07/2020,Maquet,16727,215432,8.00.1,02/07/2020,bom,,,157758,20081,59586,sim,03/07/2020,Felipe e Yuri,
+Getúlio Vargas (HEGV),19/06/2020,03/07/2020,Maquet,30014,172734,06.01.02,03/07/2020,bom,,,276072,6508,8968,sim,03/07/2020,Felipe e Yuri,
+Getúlio Vargas (HEGV),19/06/2020,03/07/2020,Maquet,30025,172738,06.01.02,04/07/2020,bom,,,91667,17882,14444,sim,03/07/2020,Felipe e Yuri,
+Getúlio Vargas (HEGV),19/06/2020,03/07/2020,Maquet,??,,,,,,,,,,sim,,,
+Getúlio Vargas (HEGV),19/06/2020,03/07/2020,Maquet,7761,206388,06.01.02,22/07/2020,bom,,,136660,14515,9358,não,,"Felipe, Julia, Marcela, Anderson e Yuri","- Conector de vídeo obstruído, porém a tela foi testada e está funcionando.
+- Unidade do paciente com defeito (alarmando com máquina desligando).
+- Placas de comunicação trocada. Em 15/07/20 a LX793013 (HEGV), com pino travado e pertencente a este respirador, foi substituída pela IM563017 (HEAT), que veio solta. Porém, em 20/07/20, a IM563017 voltou para os equipamentos do HEAT e a placa MT074132, do único respirador do HEER (n/s 16468), ocupou seu lugar.
+- Devolvido sem célula."
+Getúlio Vargas (HEGV),19/06/2020,03/07/2020,Maquet,7297,205927,06.01.02,22/07/2020,bom,,,222408,20430,14697,não,,Yuri,"- Faltava parafuso do acoplamento dos módulos O2/Air
+- Devolvido sem célula."
+Getúlio Vargas (HEGV),19/06/2020,10/07/2020,Maquet,15438,214178,4.00.05,08/07/2020,bom,,,222232,35681,15313,sim,22/07/2020,"Felipe, Marcela e Yuri",Devolvido sem célula.
+Getúlio Vargas (HEGV),19/06/2020,10/07/2020,Maquet,16602,215303,4.00.05,08/07/2020,bom,,,133856,15460,33009,sim,22/07/2020,"Felipe, Marcela e Yuri",Devolvido com a célula AA283367.
+Getúlio Vargas (HEGV),19/06/2020,10/07/2020,Maquet,16586,215288,4.00.05,08/07/2020,bom,,,136397,29595,61957,sim,22/07/2020,"Felipe, Marcela e Yuri",Devolvido sem célula.
+Getúlio Vargas (HEGV),19/06/2020,15/07/20,Maquet,30003 (30016),171945,,,,,,,,,não,,Yuri,"s/ fusível, bateria 1771 ruim, bateria 1772 ruim, falta trava dos módulos, sem botão monitor"
+Getúlio Vargas (HEGV),19/06/2020,15/07/20,Maquet,30026,172601,,,,,,,,,não,,Yuri,Utilizado no teste de baterias
+Getúlio Vargas (HEGV),19/06/2020,15/07/20,Maquet,30009,171940,,,,,,,,,não,,Yuri,Utilizado no teste de baterias
+Eduardo Rabello (HEER),03/07/20,15/07/20,Maquet,16468,206023,,,,,,,,,não,,Yuri,"Não mexer, pfv"
+Alberto Torres (HEAT),09/07/20,15/07/20,Maquet,28204,168030,,,,,,,,,não,,Yuri,"Tentar salvar, ainda falta muita coisa"
+Alberto Torres (HEAT),09/07/20,15/07/20,Maquet,28206,-,,,,,,,,,não,,Yuri,Sucata
+Alberto Torres (HEAT),09/07/20,15/07/20,Maquet,213852,-,,,,,,,,,não,,Yuri,Sucata
+Getúlio Vargas (HEGV),19/06/2020,15/07/20,Maquet,16578,215253,06.01.02,15/07/2020,Bom,,,91658,34646,60992,sim,22/07/2020,Marcela e Yuri,Devolvido sem célula.
+Getúlio Vargas (HEGV),19/06/2020,15/07/20,Maquet,30004,172741,06.01.02,15/07/2020,Bom,,,136502,9325,12263,sim,22/07/2020,Marcela e Yuri,Devolvido sem célula.
+Getúlio Vargas (HEGV),19/06/2020,22/07/20,Maquet,16677,215418,4.00.05,22/07/2020,Bom,,,219562,59377,12261,não,,Yuri,Devolvido sem célula.
