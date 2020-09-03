@@ -3,209 +3,237 @@
 
 volunteer-1:
   name: Maurício Motta
-  role: coordenadores do NRVM
+  role: Coordenação
   link:
   contact: #mauricio.motta@cefet-rj.br
   contact_type: email
   grupo: organizacao
+  ordem: 1
+  grupo: NRVM
 
 volunteer-2:
   name: Alexandre Pinhel
-  role: 
+  role: Coordenação
   link: 
-  contact: #pinhel@ieee.org
+  contact: pinhel@ieee.org
   contact_type: email
   grupo: organizacao
+  ordem: 1
+  grupo: NRVM
 
 volunteer-3:
   name: Carlos Travessa
-  role: guardiões do NRVM
+  role: Suporte Administrativo
   link: 
-  contact: www.google.com
+  contact: 
   contact_type: linkedin
-  grupo: tecnico
+  ordem: 2
+  grupo: NRVM
 
 volunteer-4:
   name: Heitor Mendes
-  role:
+  role: Suporte Administrativo
   link:
-  contact: www.google.com
+  contact: 
   contact_type: lattes
-  grupo: tecnico
+  ordem: 2
+  grupo: NRVM
 
 volunteer-5:
   name: Aldecir Alves de Araújo
-  role:
+  role: Suporte Administrativo
   link:
-  contact: www.google.com
+  contact: 
   contact_type: insta
-  grupo: tecnico
+  ordem: 2
+  grupo: NRVM
 
 volunteer-6:
   name: Rogério Pires dos Santos
-  role: especialista em reparos
+  role: Equipe de Manutenção
   link:
-  contact: www.google.com
+  contact: 
   contact_type: web
-  grupo: tecnico
+  ordem: 3
+  grupo: NRVM
 
 volunteer-7: 
   name: Julio César Santos
-  role: enfermeiro higienizador
+  role: Equipe de Enfermagem
   link:
   contact:
   contact_type: email
-  grupo: tecnico
+  ordem: 4
+  grupo: NRVM
  
 volunteer-8:
   name: Wanderson Alves de Araújo
-  role: aferidor especialista
+  role: Equipe de Manutenção
   link: 
   contact: #wanderson.araujo@nsmedical.com.br
   Instagram:
-  grupo: tecnico
+  ordem: 3
+  grupo: NRVM
 
 volunteer-9: 
   name: José Santisteban
-  role: organizador de eventos online
+  role: Organização de eventos online
   link:
   contact: josesantisteban@id.uff.br
   contact_type: email
-  grupo: admin
+  ordem: 5
+  grupo: NRVM
 
 volunteer-10:
   name: Yuri Bastos Gabrich
-  role: coordernador do EAVM
-  link: www.google.com
-  contact: www.google.com
-  contact_type: web
-  grupo: organizacao
+  role: Coordenação
+  link: 
+  contact: www.linkedin.com/in/yurigabrich
+  contact_type: linkedin
+  ordem: 1
+  grupo: EAVM
 
 volunteer-11:
   name: Oumar Diene
-  role: vice-coordenador do EAVM
+  role: Coordenação
   link:
   contact: #oumar@dee.ufrj.br
   contact_type: email
-  grupo: organizacao
+  ordem: 1
+  grupo: EAVM
 
 volunteer-12:
   name: Thomas Campello
-  role: tesoureiro do EAVM
+  role: Suporte Administrativo
   link: 
-  contact: #t.m.campello@ieee.org
-  contact_type:
-  grupo: admin
+  contact: www.linkedin.com/in/thomas-campello/
+  contact_type: linkedin
+  ordem: 2
+  grupo: EAVM
 
 volunteer-13: 
   name: Gidy Navarro
-  role: conselheira do EAVM
+  role: Suporte Administrativo
   link:
   contact: #gidy.florez@ieee.org
   contact_type: email
-  grupo: admin
+  ordem: 2
+  grupo: EAVM
  
 volunteer-14:
   name: Marcos Azevedo
-  role: recrutador do EAVM
+  role: Suporte Administrativo
   link: 
   contact: #marcos.magalhaes@ieee.org
   contact_type:
-  grupo: admin
+  ordem: 2
+  grupo: EAVM
 
 volunteer-15:
   name: Fernando Lima
-  role: facilitador do EAVM
+  role: Suporte Administrativo
   link:
-  contact: #folivelima@gmail.com
-  contact_type:
-  grupo: admin
+  contact: www.linkedin.com/in/fernando-lima-47673263/
+  contact_type: linkedin
+  ordem: 2
+  grupo: EAVM
 
 volunteer-16:
   name: Anderson Patrício
-  role: equipe de manutenção
+  role: Equipe de Manutenção
   link:
-  contact: #andersonresende@poli.ufrj.br
-  contact_type:
-  grupo: tecnico
+  contact: andersonresende@poli.ufrj.br
+  contact_type: email
+  ordem: 3
+  grupo: EAVM
 
 volunteer-17:
   name: Felipe Neves Piancó
-  role:
+  role: Equipe de Manutenção
   link:
-  contact: #piancofelipe@ieee.org
-  contact_type: email
-  grupo: tecnico
+  contact: www.linkedin.com/in/piancofelipe
+  contact_type: linkedin
+  ordem: 3
+  grupo: EAVM
 
 volunteer-18:
   name: Julia Aguiar Neri da Silva
-  role:
+  role: Equipe de Manutenção
   link: 
   contact: www.linkedin.com/mwlite/in/neri-julia
   contact_type: linkedin
-  grupo: tecnico
+  ordem: 3
+  grupo: EAVM
 
 volunteer-19:
   name: Marcela Brandão Costa de Souza
-  role:
+  role: Equipe de Manutenção
   link: 
   contact: #marcelabrandaocosta2211@gmail.com
   contact_type:
-  grupo: tecnico
+  ordem: 3
+  grupo: EAVM
 
 volunteer-20:
   name: Neilson Fernandes Dantas
-  role:
+  role: Equipe de Manutenção
   link:
   contact: 
   contact_type: email
-  grupo: tecnico
+  ordem: 3
+  grupo: EAVM
 
 volunteer-21:
   name: Raphael Reis
-  role: prototipador de impressão 3D
+  role: Equipe de Manutenção
   link: 
-  contact:
-  contact_type: email
-  grupo: tecnico
+  contact: www.linkedin.com/in/raphael-reis-784b3812a
+  contact_type: linkedin
+  ordem: 3
+  grupo: EAVM
 
 volunteer-22:
   name: Luana Kin Lian
-  role: equipe de mídia social e comunicação
+  role: Equipe de Mídias Sociais e Comunicação
   link: 
-  contact: #luana.kin@ieee.org 
-  contact_type:
-  grupo: admin
+  contact: www.linkedin.com/in/luana-kin-lian/
+  contact_type: linkedin
+  ordem: 4
+  grupo: EAVM
 
 volunteer-23:
   name: Luciano Netto de Lima
-  role:
+  role: Equipe de Mídias Sociais e Comunicação
   link: 
   contact: #lucianolnl@gmail.com
   contact_type: email
-  grupo: admin
+  ordem: 4
+  grupo: EAVM
 
 volunteer-24:
   name: Rodrigo de Sa Leitao Martins
-  role: # criador de dados visuais
+  role: Equipe de Mídias Sociais e Comunicação
   link: 
-  contact: #rodrigomartins@id.uff.br
-  contact_type:
-  grupo: admin
+  contact: https://www.linkedin.com/in/rodslmartins
+  contact_type: linkedin
+  ordem: 4
+  grupo: EAVM
 
 volunteer-25:
   name: Thales Abreu
-  role: # técnico audiovisual
+  role: Equipe de Mídias Sociais e Comunicação
   link: 
   contact: 
   contact_type: email
-  grupo: admin
+  ordem: 6
+  grupo: NRVM
 
 volunteer-26:
   name: Vanessa Peres Lopes
-  role:
+  role: Equipe de Mídias Sociais e Comunicação
   link:
   contact: www.instagram.com/vanessaperesl/
   contact_type: instagram
-  grupo: admin
+  ordem: 4
+  grupo: EAVM
 
