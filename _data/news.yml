@@ -47,3 +47,9 @@ news-8:
   source: IEEE events
   kind: video
   link: https://events.vtools.ieee.org/m/233492
+
+news-9:
+  title: Engineers in Rio de Janeiro Roll Up Their Sleeves to Repair Ventilators
+  source: The Institute’s blog
+  kind: text
+  link: https://spectrum.ieee.org/news-from-around-ieee/the-institute/ieee-member-news/engineers-in-rio-de-janeiro-roll-up-their-sleeves-to-repair-ventilators
