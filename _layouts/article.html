@@ -22,7 +22,9 @@ layout: default
           </li>
         </ul>
         <h2 class="text-light text-bold">{{ page_category.name }}</h2>
-        <p class="text-light mb-2">{{ page_category.description }}</p>
+	{% if page_category.description != nil %}
+          <p class="text-light mb-2">{{ page_category.description }}</p>
+	{% endif %}
       </div>
       {% if page.has-subcategories == true %}
         {% for subcategory in site.data.subcategory_list %}
@@ -67,6 +69,12 @@ layout: default
 
     </div>
   </div>
+
+<div>
+
+
+</div>
+
 </div>
 
 
