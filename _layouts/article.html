@@ -7,8 +7,6 @@ layout: default
 
 {% assign page_subcategory = site.data.subcategory_list[page.subcategory] %}
 
-{% assign volunteers = site.data.volunteers %}
-
 <div class="container-full">
   <div class="container grid-xl">
     <div class="mt-12 show-md"></div>
@@ -73,13 +71,6 @@ layout: default
   </div>
 
 <div>
-{{ volunteers.size }}
-
-<ul>
-  {% for names in site.data.volunteers %}
-    <li>{{ forloop.index }}</li>
-  {% endfor %}
-</ul>
 
 
 </div>
