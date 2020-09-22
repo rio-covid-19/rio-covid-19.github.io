@@ -1,39 +1,70 @@
 <nav class="container grid-xl navbar">
+
+  <!-- Large screens -->
   <div class="flex-vertical-center hide-sm">
     <a style="width: 20%;" href="{{ site.url }}{{ site.baseurl }}" class="logo">
       <img style="max-width: 100%;" src="{{ site.baseurl }}/assets/{{ site.brand_logo }}"/>
     </a>
     <p class="m-0 ml-2 text-light d-inline">{{ site.brand_moto }}</p>
   </div>
-  <div class="text-center show-sm">
+
+  <!-- Small screens -->
+  <div class="text-center show-sm navbar-expand-md">
     <a style="width: 100%;" href="{{ site.url }}{{ site.baseurl }}" class="logo flex-centered">
       <img style="max-width: 150px;" src="{{ site.baseurl }}/assets/{{ site.brand_logo }}"/>
     </a>
     <p class="m-0 text-light">{{ site.brand_moto }}</p>
-    <a style="height: auto;" href="{{ site.nav_button_link }}" class="btn btn-lg btn-outline py-2 mt-4">{{ site.nav_button }}</a>
+    <button style="height: auto;" class="btn btn-lg btn-outline py-2 mt-4" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="main-nav navbar-nav">
+        {% if site.nav_item_one != null %}
+        <li class="mx-4">
+          <a  class="nav-links" href="{{ site.nav_item_one_link }}">{{ site.nav_item_one }}</a>
+        </li>
+        {% endif %}
+        {% if site.nav_item_two != null %}
+        <li class="mx-4">
+          <a  class="nav-links" href="{{ site.nav_item_two_link }}">{{ site.nav_item_two }}</a>
+        </li>
+        {% endif %}
+        {% if site.nav_item_three != null %}
+        <li class="mx-4">
+          <a  class="nav-links" href="{{ site.nav_item_three_link }}">{{ site.nav_item_three }}</a>
+        </li>
+        {% endif %}
+        {% if site.nav_button != null %}
+        <li>
+          <a href="{{ site.nav_button_link }}" style="height: auto;" class="btn btn-lg btn-outline py-2">{{ site.nav_button }}</a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
   </div>
+
+  <!-- Large screens -->
   <ul class="main-nav">
-    {% if site.nav_item_one == null %}
-    {% else %}
-    <li class="mx-4">
-      <a  class="nav-links" href="{{ site.nav_item_one_link }}">{{ site.nav_item_one }}</a>
-    </li>
-    {% endif %}
-    {% if site.nav_item_two == null %}
-    {% else %}
-    <li class="mx-4">
-      <a  class="nav-links" href="{{ site.nav_item_two_link }}">{{ site.nav_item_two }}</a>
-    </li>
-    {% endif %}
-    {% if site.nav_item_three == null %}
-    {% else %}
-    <li class="mx-4">
-      <a  class="nav-links" href="{{ site.nav_item_three_link }}">{{ site.nav_item_three }}</a>
-    </li>
-    {% endif %}
-    <li>
-      <a href="{{ site.nav_button_link }}" style="height: auto;" class="btn btn-lg btn-outline py-2">{{ site.nav_button }}</a>
-    </li>
-  </ul>
+      {% if site.nav_item_one != null %}
+      <li class="mx-4">
+        <a  class="nav-links" href="{{ site.nav_item_one_link }}">{{ site.nav_item_one }}</a>
+      </li>
+      {% endif %}
+      {% if site.nav_item_two != null %}
+      <li class="mx-4">
+        <a  class="nav-links" href="{{ site.nav_item_two_link }}">{{ site.nav_item_two }}</a>
+      </li>
+      {% endif %}
+      {% if site.nav_item_three != null %}
+      <li class="mx-4">
+        <a  class="nav-links" href="{{ site.nav_item_three_link }}">{{ site.nav_item_three }}</a>
+      </li>
+      {% endif %}
+      {% if site.nav_button != null %}
+      <li>
+        <a href="{{ site.nav_button_link }}" style="height: auto;" class="btn btn-lg btn-outline py-2">{{ site.nav_button }}</a>
+      </li>
+      {% endif %}
+    </ul>
 </nav>

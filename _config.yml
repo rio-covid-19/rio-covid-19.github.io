@@ -36,7 +36,7 @@ activity: Atividades
 abstract: Uma iniciativa que une voluntários, estudantes e profissionais, para a manutenção e o reparo de ventiladores mecânicos de hospitais da rede pública localizados no estado do Rio de Janeiro. Resultado da união entre instituições públicas, privadas e sem fins lucrativos, o grupo heterogêneo vêm somando esforços as diversas atividades que a sociedade se propôs no combate ao COVID-19. De imediato, tem impacto direto na capacidade de salvar vidas, a médio e longo prazo, deixa um legado na disseminação do conhecimento e da educação em engenharia clínica.
 foot_descrip: O Núcleo de Reparo de Ventiladores Mecânicos é uma iniciativa que integra os diversos esforços da sociedade no combate ao COVID-19. Localizada no estado do Rio de Janeiro, é composta por uma rede de estudantes e profissionais de várias áreas da engenharia.
 
-news: divulgação...
+news: Repercussão
 
 meta_image: odin-meta.png
 
@@ -59,15 +59,15 @@ nav_item_two_link: /resultados
 nav_item_three: Voluntários
 nav_item_three_link: /voluntarios
 
-nav_button: Contribua
-nav_button_link: /contribua
+#nav_button: Contribua
+#nav_button_link: /contribua
 
 
 # Stakeholders
 organization: Organização
-funding: Financiamento
+funding: # Financiamento
 partnership: Parceria
-support: # Apoio
+support: Apoio
 
 # Build settings
 theme: minima

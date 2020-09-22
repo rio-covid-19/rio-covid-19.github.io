@@ -10,82 +10,95 @@ org-2:
   logo: Furnas.png
   link: https://www.furnas.com.br
 
-org-3:
-  name: IEEE seção Rio de Janeiro
-  logo: seção rio logo_crop.png
-  link: http://www.ieee.org.br/rio-de-janeiro/a-secao
+# ----------------
 
-fund-1:
-  name: IEEE HAC & SIGHT
-  logo: ieee-hac-sight.png
-  link: https://hac.ieee.org
+# fund-1:
+#  name: IEEE HAC & SIGHT
+#  logo: ieee-hac-sight.png
+#  link: https://hac.ieee.org
 
-#fund-2:
+# fund-2:
 #  name: Financiamento Coletivo
 #  logo: 
 #  link: 
 
+# ----------------
+
 partner-1:
-  name: Secretaria de Estado de Saúde do RJ
-  logo: ses-gov-rj.png
-  link: https://www.saude.rj.gov.br/
+  name: IEEE seção Rio de Janeiro
+  logo: seção rio logo_crop.png
+  link: http://www.ieee.org.br/rio-de-janeiro/a-secao
 
 partner-2:
-  name: White Martins
-  logo: white_martins.png
-  link: http://www.praxair.com.br
-
-partner-3:
-  name: ACRJ
-  logo: ACRJ__1_-removebg-preview.png
-  link: https://acrj.org.br
-
-partner-4:
-  name: Clube de Engenharia
-  logo: Logo Clube_square-transp (1).png
-  link: http://portalclubedeengenharia.org.br
-
-partner-5:
-  name: Sebrae/RJ
-  logo: Sebrae (2).png
-  link: https://www.sebrae.com.br/sites/PortalSebrae/ufs/rj?codUf=20
-
-partner-6:
-  name: Gsol
-  logo: Gsol__1_-removebg-preview.png
-  link: https://www.gsol.com.br
-
-partner-7:
-  name: Ezrest
-  logo: Ezrezt.png
-  link: https://covid.ezrest.com.br/#home
-
-partner-8:
-  name: Lancier
-  logo: Lancier.png
-  link: https://www.lancier-monitoring.de/
-
-partner-9:
   name: Nova Service
   logo: NovaService-removebg-preview.png
   link: 
 
-partner-10:
-  name: IEEE YP Rio
-  logo: IEEEYPRioLogo_4C_Stacked (1).png
-  link: https://www.facebook.com/ieee.yp.rio/?tn-str=k*F
-  
-partner-11:
+partner-3:
+  name: Gsol
+  logo: Gsol__1_-removebg-preview.png
+  link: https://www.gsol.com.br
+
+partner-4:
+  name: Ezrest
+  logo: Ezrezt.png
+  link: https://covid.ezrest.com.br/#home
+
+partner-5:
+  name: Secretaria de Estado de Saúde do RJ
+  logo: ses-gov-rj.png
+  link: https://www.saude.rj.gov.br/
+
+# ----------------
+
+support-1:
+  name: White Martins
+  logo: white_martins.png
+  link: http://www.praxair.com.br
+
+support-2:
+  name: Lancier
+  logo: Lancier.png
+  link: https://www.lancier-monitoring.de/
+
+support-3:
+  name: Bonsanto Comercial
+  logo: bonsanto-comercial.png
+  link: 
+
+support-4:
   name: RioMed Distribuidora
   logo: logo_riomed.png
   link: http://www.riomeddistribuidora.com.br/
   
-partner-12:
+support-5:
   name: SisTab
   logo: Sistab-Logo-1024x1024.png
   link: https://sistab.com.br/
 
-# support-1:
-#   name: 
-#   logo: 
-#   link: 
+support-6:
+  name: R2 impressão 3D e prototipagem
+  logo: R2-logo.png
+  link: 
+
+support-7:
+  name: IEEE YP Rio
+  logo: IEEEYPRioLogo_4C_Stacked (1).png
+  link: https://www.facebook.com/ieee.yp.rio/?tn-str=k*F
+
+support-8:
+  name: ACRJ
+  logo: ACRJ__1_-removebg-preview.png
+  link: https://acrj.org.br
+
+support-9:
+  name: Clube de Engenharia
+  logo: Logo Clube_square-transp (1).png
+  link: http://portalclubedeengenharia.org.br
+
+support-10:
+  name: Sebrae/RJ
+  logo: Sebrae (2).png
+  link: https://www.sebrae.com.br/sites/PortalSebrae/ufs/rj?codUf=20
+
+
