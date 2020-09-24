@@ -169,8 +169,8 @@ volunteer-19:
   name: Marcela Brandão Costa de Souza
   role: Equipe de Manutenção
   link: 
-  contact: #marcelabrandaocosta2211@gmail.com
-  contact_type:
+  contact: marcelabrandaocosta2211@gmail.com
+  contact_type: email
   ordem: 3
   grupo: EAVM
 
@@ -233,7 +233,7 @@ volunteer-26:
   role: Equipe de Mídias Sociais e Comunicação
   link:
   contact: www.instagram.com/vanessaperesl/
-  contact_type: instagram
+  contact_type: insta
   ordem: 4
   grupo: EAVM
 
