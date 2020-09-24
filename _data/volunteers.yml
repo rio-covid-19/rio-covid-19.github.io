@@ -25,8 +25,8 @@ volunteer-3:
   name: Carlos Travessa
   role: Suporte Administrativo
   link: 
-  contact: 
-  contact_type: linkedin
+  contact: carlos.travessa@cefet-rj.br
+  contact_type: email
   ordem: 2
   grupo: NRVM
 
@@ -61,7 +61,7 @@ volunteer-7:
   name: Julio César Santos
   role: Equipe de Enfermagem
   link:
-  contact:
+  contact: julio.silva@cefet-rj.br
   contact_type: email
   ordem: 4
   grupo: NRVM
