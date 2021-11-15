@@ -4,7 +4,7 @@
   {% if site.organization == null %}
   {% else %}
     <div class="column col-12 text-center text-uppercase mt-16">
-      <h6>{{ site.organization }}</h6>
+      {% include linkedHeading.html heading=site.organization level=6 %}
     </div>
     {% for stakeholder in site.data.stakeholders %}
       {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
@@ -23,7 +23,7 @@
   {% if site.funding == null %}
   {% else %}
     <div class="column col-12 text-center text-uppercase mt-16">
-      <h6>{{ site.funding }}</h6>
+      {% include linkedHeading.html heading=site.funding level=6 %}
     </div>
     {% for stakeholder in site.data.stakeholders %}
       {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
@@ -42,7 +42,7 @@
   {% if site.partnership == null %}
   {% else %}
     <div class="column col-12 text-center text-uppercase mt-16">
-      <h6>{{ site.partnership }}</h6>
+      {% include linkedHeading.html heading=site.partnership level=6 %}
     </div>
     {% for stakeholder in site.data.stakeholders %}
       {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
@@ -61,7 +61,7 @@
   {% if site.support == null %}
   {% else %}
     <div class="column col-12 text-center text-uppercase mt-16">
-      <h6>{{ site.support }}</h6>
+      {% include linkedHeading.html heading=site.support level=6 %}
     </div>
     {% for stakeholder in site.data.stakeholders %}
       {% capture stakeholder_id %}{{ stakeholder[0] | slice:0 }}{% endcapture %}
