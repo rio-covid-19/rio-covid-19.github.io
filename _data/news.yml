@@ -53,3 +53,51 @@ news-9:
   source: The Institute’s blog
   kind: text
   link: https://spectrum.ieee.org/news-from-around-ieee/the-institute/ieee-member-news/engineers-in-rio-de-janeiro-roll-up-their-sleeves-to-repair-ventilators
+
+news-10:
+  title: Voluntários se unem para consertar respiradores no Rio de Janeiro
+  source: Agência Brasil
+  kind: text
+  link: https://agenciabrasil.ebc.com.br/geral/noticia/2020-09/voluntarios-se-unem-para-consertar-respiradores-no-rio-de-janeiro-0
+
+news-11:
+  title: Voluntários consertam ventiladores de hospitais do RJ utilizados em pacientes com Covid-19
+  source: Band News
+  kind: text
+  link: http://www.bandnewsfmrio.com.br/editorias-detalhes/voluntarios-consertam-ventiladores-de-hospita
+
+news-12:
+  title: Fight Against COVID-19: UERJ SB Students Collaborated in the Repairment of Mechanical Ventilators
+  source: IEEE PES
+  kind: text
+  link: https://site.ieee.org/pes-enews/2020/09/29/fight-against-covid-19-uerj-sb-students-collaborated-in-the-repairment-of-mechanical-ventilators/
+
+news-13:
+  title: Engenheiros voluntários recuperam ventiladores mecânicos essenciais ao combate à Covid-19
+  source: Portal Hospitais Brasil
+  kind: text
+  link: https://portalhospitaisbrasil.com.br/engenheiros-voluntarios-recuperam-ventiladores-mecanicos-essenciais-ao-combate-a-covid-19/
+
+news-14:
+  title: Engenheiros voluntários recuperam ventiladores mecânicos
+  source: Revista Visão Hospitalar
+  kind: text
+  link: https://revistavisaohospitalar.com.br/engenheiros-voluntarios-recuperam-ventiladores-mecanicos/
+
+news-15:
+  title: Engenheiros voluntários recuperam ventiladores mecânicos essenciais ao combate à Covid-19
+  source: Portal Folha Regional
+  kind: text
+  link: https://jfolharegional.com.br/mostra.asp?noticias=43661
+
+news-16:
+  title: Engenheiros voluntários recuperam ventiladores mecânicos essenciais ao combate à Covid-19
+  source: Rio das Ostras Jornal
+  kind: text
+  link: https://riodasostrasjornal.blogspot.com/2020/09/engenheiros-voluntarios-recuperam.html
+
+news-17:
+  title: Como juntos ajudar a Salvar Vidas na pandemia?
+  source: GSol
+  kind: video
+  link: https://www.youtube.com/watch?v=pxguUBuB8UM
