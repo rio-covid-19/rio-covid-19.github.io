@@ -101,3 +101,9 @@ news-17:
   source: GSol
   kind: video
   link: https://www.youtube.com/watch?v=pxguUBuB8UM
+
+news-16:
+  title: Building and Repairing Ventilators to Help Patients
+  source: 2020 IEEE Annual Report
+  kind: text
+  link: https://www.ieee.org/about/annual-report.html
