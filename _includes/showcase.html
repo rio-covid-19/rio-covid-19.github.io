@@ -14,7 +14,7 @@
         <div class="my-6"></br></div>
         <div class="columns">
             <div class="column col-12 text-center mt-16">
-                <h4>{{ site.activity }}</h4>
+                {% include linkedHeading.html heading=site.activity level=4 %}
             </div>
             {% for category in site.data.category_list %}
             {% capture category_name %}{{ category | first }}{% endcapture %}
