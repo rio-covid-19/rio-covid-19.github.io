@@ -50,7 +50,7 @@ volunteer-5:
 
 volunteer-6:
   name: Rogério Pires dos Santos
-  role: Equipe de Manutenção
+  role: Manutenção
   link:
   contact: 
   contact_type: web
@@ -59,7 +59,7 @@ volunteer-6:
 
 volunteer-7: 
   name: Julio César Santos
-  role: Equipe de Enfermagem
+  role: Enfermagem
   link:
   contact: julio.silva@cefet-rj.br
   contact_type: email
@@ -68,7 +68,7 @@ volunteer-7:
  
 volunteer-8:
   name: Wanderson Alves de Araújo
-  role: Equipe de Manutenção
+  role: Manutenção
   link: 
   contact: wanderson01@gmail.com
   contact_type: email
@@ -77,7 +77,7 @@ volunteer-8:
 
 volunteer-9: 
   name: José Santisteban
-  role: Organização de eventos online
+  role: Organização de Eventos Online
   link:
   contact: josesantisteban@id.uff.br
   contact_type: email
@@ -140,7 +140,7 @@ volunteer-15:
 
 volunteer-16:
   name: Anderson Patrício
-  role: Equipe de Manutenção
+  role: Manutenção
   link:
   contact: andersonresende@poli.ufrj.br
   contact_type: email
@@ -149,7 +149,7 @@ volunteer-16:
 
 volunteer-17:
   name: Felipe Neves Piancó
-  role: Equipe de Manutenção
+  role: Manutenção
   link:
   contact: www.linkedin.com/in/piancofelipe
   contact_type: linkedin
@@ -158,7 +158,7 @@ volunteer-17:
 
 volunteer-18:
   name: Julia Aguiar Neri da Silva
-  role: Equipe de Manutenção
+  role: Manutenção
   link: 
   contact: www.linkedin.com/mwlite/in/neri-julia
   contact_type: linkedin
@@ -167,7 +167,7 @@ volunteer-18:
 
 volunteer-19:
   name: Marcela Brandão Costa de Souza
-  role: Equipe de Manutenção
+  role: Manutenção
   link: 
   contact: marcelabrandaocosta2211@gmail.com
   contact_type: email
@@ -176,7 +176,7 @@ volunteer-19:
 
 volunteer-20:
   name: Neilson Fernandes Dantas
-  role: Equipe de Manutenção
+  role: Manutenção
   link:
   contact: www.linkedin.com/in/neilson-fernandes-0b5440109/
   contact_type: linkedin
@@ -185,7 +185,7 @@ volunteer-20:
 
 volunteer-21:
   name: Raphael Reis
-  role: Equipe de Manutenção
+  role: Manutenção
   link: 
   contact: www.linkedin.com/in/raphael-reis-784b3812a
   contact_type: linkedin
@@ -194,7 +194,7 @@ volunteer-21:
 
 volunteer-22:
   name: Luana Kin Lian
-  role: Equipe de Mídias Sociais e Comunicação
+  role: Mídias Sociais e Comunicação
   link: 
   contact: www.linkedin.com/in/luana-kin-lian/
   contact_type: linkedin
@@ -203,7 +203,7 @@ volunteer-22:
 
 volunteer-23:
   name: Luciano Netto de Lima
-  role: Equipe de Mídias Sociais e Comunicação
+  role: Mídias Sociais e Comunicação
   link: 
   contact: www.linkedin.com/in/luciano-netto-de-lima-msc-7208042a/
   contact_type: linkedin
@@ -212,7 +212,7 @@ volunteer-23:
 
 volunteer-24:
   name: Rodrigo de Sa Leitao Martins
-  role: Equipe de Mídias Sociais e Comunicação
+  role: Mídias Sociais e Comunicação
   link: 
   contact: https://www.linkedin.com/in/rodslmartins
   contact_type: linkedin
@@ -221,7 +221,7 @@ volunteer-24:
 
 volunteer-25:
   name: Thales Abreu
-  role: Equipe de Mídias Sociais e Comunicação
+  role: Mídias Sociais e Comunicação
   link: 
   contact: 
   contact_type: email
@@ -230,10 +230,117 @@ volunteer-25:
 
 volunteer-26:
   name: Vanessa Peres Lopes
-  role: Equipe de Mídias Sociais e Comunicação
+  role: Mídias Sociais e Comunicação
   link:
   contact: www.instagram.com/vanessaperesl/
   contact_type: insta
   ordem: 4
   grupo: EAVM
 
+volunteer-27:
+  name: Brenno Duarte
+  role: Manutenção
+  link:
+  contact: 
+  contact_type: web
+  ordem: 3
+  grupo: NRVM
+
+volunteer-28:
+  name: Victor F. Campos
+  role: Manutenção
+  link:
+  contact: 
+  contact_type: web
+  ordem: 3
+  grupo: NRVM
+
+volunteer-29:
+  name: Yuri Bispo
+  role: Manutenção
+  link:
+  contact: 
+  contact_type: web
+  ordem: 3
+  grupo: NRVM
+
+volunteer-30:
+  name: Cristiaon H. Ferraz
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-31:
+  name: Fabricio Lopes e Silva
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-32:
+  name: Guilherme Campos
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-33:
+  name: João Dias
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-34:
+  name: José Antônio
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-35:
+  name: Marcos de Castro
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-36:
+  name: Marcio Pimenta
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-37:
+  name: Martins Gestor
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-38:
+  name: Alexandre Ferreli Souza
+  role: Suporte Administrativo
+  link:
+  contact: www.linkedin.com/in/ferreli/
+  contact_type: linkedin
+  ordem: 2
+  grupo: EAVM
