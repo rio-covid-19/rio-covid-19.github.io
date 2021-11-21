@@ -237,3 +237,110 @@ volunteer-26:
   ordem: 4
   grupo: EAVM
 
+volunteer-27:
+  name: Brenno Duarte
+  role: Equipe de Manutenção
+  link:
+  contact: 
+  contact_type: web
+  ordem: 3
+  grupo: NRVM
+
+volunteer-28:
+  name: Victor F. Campos
+  role: Equipe de Manutenção
+  link:
+  contact: 
+  contact_type: web
+  ordem: 3
+  grupo: NRVM
+
+volunteer-29:
+  name: Yuri Bispo
+  role: Equipe de Manutenção
+  link:
+  contact: 
+  contact_type: web
+  ordem: 3
+  grupo: NRVM
+
+volunteer-30:
+  name: Cristiaon H. Ferraz
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-31:
+  name: Fabricio Lopes e Silva
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-32:
+  name: Guilherme Campos
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-33:
+  name: João Dias
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-34:
+  name: José Antônio
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-35:
+  name: Marcos de Castro
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-36:
+  name: Marcio Pimenta
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-37:
+  name: Martins Gestor
+  role: Suporte Administrativo
+  link:
+  contact: 
+  contact_type: web
+  ordem: 2
+  grupo: NRVM
+
+volunteer-38:
+  name: Alexandre Ferreli Souza
+  role: Suporte Administrativo
+  link:
+  contact: www.linkedin.com/in/ferreli/
+  contact_type: linkedin
+  ordem: 2
+  grupo: EAVM
