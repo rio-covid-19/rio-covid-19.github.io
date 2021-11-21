@@ -56,8 +56,11 @@ nav_item_one_link: /about
 nav_item_two: Resultados
 nav_item_two_link: /resultados
 
-nav_item_three: Voluntários
-nav_item_three_link: /voluntarios
+nav_item_three: Reconhecimentos
+nav_item_three_link: /reconhecimentos
+
+nav_item_four: Voluntários
+nav_item_four_link: /voluntarios
 
 #nav_button: Contribua
 #nav_button_link: /contribua
